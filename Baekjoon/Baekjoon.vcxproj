@@ -115,6 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="1000_A+B.java" />
+    <None Include="1001_A-B.java" />
+    <None Include="1002_터렛.java" />
+    <None Include="1003_피보나치함수.java" />
+    <None Include="1008_A나누기B.java" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
