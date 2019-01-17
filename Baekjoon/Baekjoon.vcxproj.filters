@@ -30,5 +30,34 @@
     <None Include="1008_A나누기B.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="1182_부분집합의합.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1248_맞춰봐.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1339_단어수학.java">
+      <Filter>소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1065_한수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1110_더하기사이클.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1149_RGB거리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1152_단어의개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1261_알고스팟.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1463_1로만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -77,6 +77,9 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -120,6 +123,17 @@
     <None Include="1002_터렛.java" />
     <None Include="1003_피보나치함수.java" />
     <None Include="1008_A나누기B.java" />
+    <None Include="1182_부분집합의합.java" />
+    <None Include="1248_맞춰봐.java" />
+    <None Include="1339_단어수학.java" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1065_한수.cpp" />
+    <ClCompile Include="1110_더하기사이클.cpp" />
+    <ClCompile Include="1149_RGB거리.cpp" />
+    <ClCompile Include="1152_단어의개수.cpp" />
+    <ClCompile Include="1261_알고스팟.cpp" />
+    <ClCompile Include="1463_1로만들기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
