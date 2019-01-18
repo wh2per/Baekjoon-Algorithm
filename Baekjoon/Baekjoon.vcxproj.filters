@@ -39,6 +39,27 @@
     <None Include="1339_단어수학.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="1476_날짜계산.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1676_팩토리얼0의개수.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1697_숨바꼭질.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1748_수이어쓰기1.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1912_연속합.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="2108_통계학.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="2309_일곱난쟁이.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
@@ -57,6 +78,45 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1463_1로만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1525_퍼즐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1699_제곱수의합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1759_암호만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1890_점프.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1929_소수만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1979_소수찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1987_알파벳.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2133_타일채우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2156_포도주시식.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2193_이친수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2206_벽부수고이동하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2225_합분해.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2251_물통.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

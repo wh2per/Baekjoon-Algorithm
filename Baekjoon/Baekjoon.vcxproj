@@ -126,6 +126,13 @@
     <None Include="1182_부분집합의합.java" />
     <None Include="1248_맞춰봐.java" />
     <None Include="1339_단어수학.java" />
+    <None Include="1476_날짜계산.java" />
+    <None Include="1676_팩토리얼0의개수.java" />
+    <None Include="1697_숨바꼭질.java" />
+    <None Include="1748_수이어쓰기1.java" />
+    <None Include="1912_연속합.java" />
+    <None Include="2108_통계학.java" />
+    <None Include="2309_일곱난쟁이.java" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp" />
@@ -134,6 +141,19 @@
     <ClCompile Include="1152_단어의개수.cpp" />
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
+    <ClCompile Include="1525_퍼즐.cpp" />
+    <ClCompile Include="1699_제곱수의합.cpp" />
+    <ClCompile Include="1759_암호만들기.cpp" />
+    <ClCompile Include="1890_점프.cpp" />
+    <ClCompile Include="1929_소수만들기.cpp" />
+    <ClCompile Include="1979_소수찾기.cpp" />
+    <ClCompile Include="1987_알파벳.cpp" />
+    <ClCompile Include="2133_타일채우기.cpp" />
+    <ClCompile Include="2156_포도주시식.cpp" />
+    <ClCompile Include="2193_이친수.cpp" />
+    <ClCompile Include="2206_벽부수고이동하기.cpp" />
+    <ClCompile Include="2225_합분해.cpp" />
+    <ClCompile Include="2251_물통.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
