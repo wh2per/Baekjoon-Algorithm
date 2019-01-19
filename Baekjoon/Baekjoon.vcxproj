@@ -135,6 +135,7 @@
     <None Include="2309_일곱난쟁이.java" />
     <None Include="2438_별찍기-1.java" />
     <None Include="6064_카잉달력.java" />
+    <None Include="7287_등록.java" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp" />
