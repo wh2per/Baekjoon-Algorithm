@@ -2,8 +2,7 @@
 #include <algorithm>
 using namespace std;
 
-
-int bj_2570() {
+int bj_2579() {
 	int n;
 	cin >> n;
 	int a[301];
