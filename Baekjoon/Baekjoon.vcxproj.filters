@@ -69,6 +69,9 @@
     <None Include="7287_등록.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="8393_합.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
