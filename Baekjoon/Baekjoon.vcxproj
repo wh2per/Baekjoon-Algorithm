@@ -133,6 +133,7 @@
     <None Include="1912_연속합.java" />
     <None Include="2108_통계학.java" />
     <None Include="2309_일곱난쟁이.java" />
+    <None Include="2438_일곱난쟁이.java" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp" />

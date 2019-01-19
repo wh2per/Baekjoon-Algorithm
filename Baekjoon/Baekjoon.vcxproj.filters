@@ -60,6 +60,9 @@
     <None Include="2309_일곱난쟁이.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="2438_일곱난쟁이.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
