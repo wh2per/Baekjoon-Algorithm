@@ -60,7 +60,10 @@
     <None Include="2309_일곱난쟁이.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="2438_일곱난쟁이.java">
+    <None Include="2438_별찍기-1.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="24439_별찍기-2.cpp">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
@@ -120,6 +123,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2251_물통.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2440_별찍기-3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
