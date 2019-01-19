@@ -134,6 +134,7 @@
     <None Include="2108_통계학.java" />
     <None Include="2309_일곱난쟁이.java" />
     <None Include="2438_별찍기-1.java" />
+    <None Include="6064_카잉달력.java" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp" />

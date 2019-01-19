@@ -63,6 +63,9 @@
     <None Include="2438_별찍기-1.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="6064_카잉달력.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
