@@ -137,5 +137,8 @@
     <ClCompile Include="2741_N찍기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3055_탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

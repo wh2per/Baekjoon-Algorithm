@@ -160,6 +160,7 @@
     <ClCompile Include="2558_A-B-2.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
+    <ClCompile Include="3055_탈출.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
