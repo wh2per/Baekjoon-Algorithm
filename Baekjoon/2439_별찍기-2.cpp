@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int bj_2439() {
 	int x;
 	cin >> x;
 
