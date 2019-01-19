@@ -156,6 +156,7 @@
     <ClCompile Include="2225_합분해.cpp" />
     <ClCompile Include="2251_물통.cpp" />
     <ClCompile Include="2529_부등호.cpp" />
+    <ClCompile Include="2557_HelloWorld.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
