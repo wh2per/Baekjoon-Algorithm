@@ -1,15 +1,17 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <queue>
 #include <cstdio>
 #include <tuple>
 using namespace std;
-int a[1000][1000];
-int d[1000][1000][2];
-int dx[] = { 0, 0, 1, -1 };
-int dy[] = { 1, -1, 0, 0 };
 
 int bj_2206() {
 	int n, m;
+	int dx[] = { 0, 0, 1, -1 };
+	int dy[] = { 1, -1, 0, 0 };
+	int a[1000][1000];
+	int d[1000][1000][2];
+
 	scanf("%d %d", &n, &m);
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {

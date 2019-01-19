@@ -3,9 +3,11 @@
 #include <string>
 #include <map>
 using namespace std;
-int dx[] = { 0, 0, 1, -1 };
-int dy[] = { 1, -1, 0, 0 };
+
 int bj_1525() {
+	int dx[] = { 0, 0, 1, -1 };
+	int dy[] = { 1, -1, 0, 0 };
+
 	int n = 3;
 	int start = 0;
 	for (int i = 0; i < n; i++) {

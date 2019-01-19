@@ -122,5 +122,8 @@
     <ClCompile Include="2251_물통.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2529_부등호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

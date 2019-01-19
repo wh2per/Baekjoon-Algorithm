@@ -1,9 +1,9 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-int d[1000001];
 
 int bj_1463() {
+	int d[1000001];
 	int n;
 	cin >> n;
 	for (int i = 2; i <= n; i++) {
