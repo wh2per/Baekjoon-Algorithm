@@ -134,7 +134,6 @@
     <None Include="2108_통계학.java" />
     <None Include="2309_일곱난쟁이.java" />
     <None Include="2438_별찍기-1.java" />
-    <None Include="24439_별찍기-2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp" />
@@ -156,7 +155,6 @@
     <ClCompile Include="2206_벽부수고이동하기.cpp" />
     <ClCompile Include="2225_합분해.cpp" />
     <ClCompile Include="2251_물통.cpp" />
-    <ClCompile Include="2440_별찍기-3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

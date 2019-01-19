@@ -63,9 +63,6 @@
     <None Include="2438_별찍기-1.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="24439_별찍기-2.cpp">
-      <Filter>소스 파일</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
@@ -123,9 +120,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2251_물통.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2440_별찍기-3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
