@@ -72,6 +72,19 @@
     <None Include="8393_합.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="9663_N-Queen.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="10172_개.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="10718_Welovekriii.java" />
+    <None Include="10819_차이를최대로.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="10869_사칙연산.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
@@ -156,6 +169,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9095_1,2,3더하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9465_스티커.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10844_쉬운계단수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

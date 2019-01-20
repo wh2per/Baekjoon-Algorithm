@@ -123,6 +123,10 @@
     <None Include="1002_터렛.java" />
     <None Include="1003_피보나치함수.java" />
     <None Include="1008_A나누기B.java" />
+    <None Include="10172_개.java" />
+    <None Include="10718_Welovekriii.java" />
+    <None Include="10819_차이를최대로.java" />
+    <None Include="10869_사칙연산.java" />
     <None Include="1182_부분집합의합.java" />
     <None Include="1248_맞춰봐.java" />
     <None Include="1339_단어수학.java" />
@@ -137,9 +141,11 @@
     <None Include="6064_카잉달력.java" />
     <None Include="7287_등록.java" />
     <None Include="8393_합.java" />
+    <None Include="9663_N-Queen.java" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp" />
+    <ClCompile Include="10844_쉬운계단수.cpp" />
     <ClCompile Include="1110_더하기사이클.cpp" />
     <ClCompile Include="1149_RGB거리.cpp" />
     <ClCompile Include="1152_단어의개수.cpp" />
@@ -167,6 +173,7 @@
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
     <ClCompile Include="9095_1,2,3더하기.cpp" />
+    <ClCompile Include="9465_스티커.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
