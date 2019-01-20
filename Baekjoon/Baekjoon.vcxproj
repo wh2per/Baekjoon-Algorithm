@@ -166,6 +166,7 @@
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
+    <ClCompile Include="9095_1,2,3더하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
