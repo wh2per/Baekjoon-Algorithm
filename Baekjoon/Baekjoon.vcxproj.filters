@@ -78,7 +78,6 @@
     <None Include="10172_개.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="10718_Welovekriii.java" />
     <None Include="10819_차이를최대로.java">
       <Filter>소스 파일</Filter>
     </None>
@@ -92,6 +91,15 @@
       <Filter>소스 파일</Filter>
     </None>
     <None Include="10998_AxB.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="10718_Welovekriii.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="11718_그대로출력하기.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="11719_그대로출력하기2.cpp">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
@@ -199,6 +207,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11048_이동하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11052_카드구매하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11053_가장긴증가하는부분수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11057_오르막수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
