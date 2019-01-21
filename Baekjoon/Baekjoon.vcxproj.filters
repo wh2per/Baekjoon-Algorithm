@@ -102,6 +102,9 @@
     <None Include="11719_그대로출력하기2.cpp">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="11723_집합.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
@@ -216,6 +219,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11057_오르막수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11720_숫자의합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11721_열개씩끊어출력하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11726_2xn타일링.java">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12851_숨바꼭질2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

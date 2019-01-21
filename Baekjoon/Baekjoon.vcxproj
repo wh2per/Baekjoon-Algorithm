@@ -132,6 +132,7 @@
     <None Include="10998_AxB.java" />
     <None Include="11718_그대로출력하기.java" />
     <None Include="11719_그대로출력하기2.cpp" />
+    <None Include="11723_집합.java" />
     <None Include="1182_부분집합의합.java" />
     <None Include="1248_맞춰봐.java" />
     <None Include="1339_단어수학.java" />
@@ -162,7 +163,11 @@
     <ClCompile Include="1110_더하기사이클.cpp" />
     <ClCompile Include="1149_RGB거리.cpp" />
     <ClCompile Include="1152_단어의개수.cpp" />
+    <ClCompile Include="11720_숫자의합.cpp" />
+    <ClCompile Include="11721_열개씩끊어출력하기.cpp" />
+    <ClCompile Include="11726_2xn타일링.java" />
     <ClCompile Include="1261_알고스팟.cpp" />
+    <ClCompile Include="12851_숨바꼭질2.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />
