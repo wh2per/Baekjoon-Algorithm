@@ -176,7 +176,10 @@
     <ClCompile Include="14499_주사위굴리기.cpp" />
     <ClCompile Include="14501_퇴사.cpp" />
     <ClCompile Include="14502_연구소.cpp" />
+    <ClCompile Include="14503_로봇청소기.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
+    <ClCompile Include="14888_연산자끼워넣기.java" />
+    <ClCompile Include="14889_스타트와링크.java" />
     <ClCompile Include="1525_퍼즐.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />
     <ClCompile Include="1759_암호만들기.cpp" />
