@@ -105,6 +105,9 @@
     <None Include="11723_집합.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="14500_테트리미노.java">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065_한수.cpp">
@@ -243,6 +246,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="14226_이모티콘.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14499_주사위굴리기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14501_퇴사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14502_연구소.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
