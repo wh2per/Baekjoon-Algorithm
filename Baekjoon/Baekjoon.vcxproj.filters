@@ -78,6 +78,9 @@
     <None Include="10172_개.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="10718_Welovekriii.java">
+      <Filter>소스 파일</Filter>
+    </None>
     <None Include="10819_차이를최대로.java">
       <Filter>소스 파일</Filter>
     </None>
@@ -93,19 +96,22 @@
     <None Include="10998_AxB.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="10718_Welovekriii.java">
-      <Filter>소스 파일</Filter>
-    </None>
     <None Include="11718_그대로출력하기.java">
-      <Filter>소스 파일</Filter>
-    </None>
-    <None Include="11719_그대로출력하기2.cpp">
       <Filter>소스 파일</Filter>
     </None>
     <None Include="11723_집합.java">
       <Filter>소스 파일</Filter>
     </None>
+    <None Include="11726_2xn타일링.java">
+      <Filter>소스 파일</Filter>
+    </None>
     <None Include="14500_테트리미노.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="14888_연산자끼워넣기.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="14889_스타트와링크.java">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
@@ -167,6 +173,15 @@
     <ClCompile Include="2251_물통.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2439_별찍기-2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2440_별찍기-3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2441_별찍기-4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="2529_부등호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -224,13 +239,13 @@
     <ClCompile Include="11057_오르막수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11719_그대로출력하기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="11720_숫자의합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11721_열개씩끊어출력하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11726_2xn타일링.java">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12851_숨바꼭질2.cpp">
@@ -260,10 +275,7 @@
     <ClCompile Include="14503_로봇청소기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="14888_연산자끼워넣기.java">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="14889_스타트와링크.java">
+    <ClCompile Include="11727_2xn타일링2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
