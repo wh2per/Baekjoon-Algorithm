@@ -168,6 +168,10 @@
     <ClCompile Include="11726_2xn타일링.java" />
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
+    <ClCompile Include="13458_시험감독.cpp" />
+    <ClCompile Include="13549_숨바꼭질3.cpp" />
+    <ClCompile Include="13913_숨바꼭질4.cpp" />
+    <ClCompile Include="14226_이모티콘.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />

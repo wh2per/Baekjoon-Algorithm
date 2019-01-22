@@ -233,5 +233,17 @@
     <ClCompile Include="12851_숨바꼭질2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13458_시험감독.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13913_숨바꼭질4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14226_이모티콘.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
