@@ -85,6 +85,7 @@
     <ClCompile Include="14503_로봇청소기.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
+    <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />
     <ClCompile Include="1759_암호만들기.cpp" />
     <ClCompile Include="1890_점프.cpp" />
