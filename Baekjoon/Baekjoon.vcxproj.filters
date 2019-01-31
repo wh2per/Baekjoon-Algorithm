@@ -290,5 +290,8 @@
     <ClCompile Include="15552_빠른A+B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10952_A+B-5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
