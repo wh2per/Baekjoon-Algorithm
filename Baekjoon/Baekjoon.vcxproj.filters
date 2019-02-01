@@ -293,5 +293,8 @@
     <ClCompile Include="10952_A+B-5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9498_시험성적.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

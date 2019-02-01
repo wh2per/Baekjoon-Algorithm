@@ -113,6 +113,7 @@
     <ClCompile Include="9019_DSLR.cpp" />
     <ClCompile Include="9095_1,2,3더하기.cpp" />
     <ClCompile Include="9465_스티커.cpp" />
+    <ClCompile Include="9498_시험성적.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
