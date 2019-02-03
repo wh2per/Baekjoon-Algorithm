@@ -56,6 +56,7 @@
   <ItemGroup>
     <ClCompile Include="10430_나머지.cpp" />
     <ClCompile Include="1065_한수.cpp" />
+    <ClCompile Include="10817_세수.cpp" />
     <ClCompile Include="10844_쉬운계단수.cpp" />
     <ClCompile Include="10871_X보다작은수.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
