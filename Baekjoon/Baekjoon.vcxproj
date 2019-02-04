@@ -109,6 +109,7 @@
     <ClCompile Include="2579_계단오르기.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
+    <ClCompile Include="2839_설탕배달.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
