@@ -2,9 +2,8 @@
 #include <algorithm>
 using namespace std;
 
-int a[10001];
-
 int bj_2156() {
+	int a[10001];
 	int n;
 	cin >> n;
 

@@ -3,11 +3,11 @@
 #include <stack>
 using namespace std;
 const int MAX = 200000;
-bool check[MAX + 1];
-int dist[MAX + 1];
-int from[MAX + 1];
 
 int bj_13913() {
+	bool check[MAX + 1];
+	int dist[MAX + 1];
+	int from[MAX + 1];
 	int n, m;
 	cin >> n >> m;
 

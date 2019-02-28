@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
-int dx[] = { -1,0,1,0 };
-int dy[] = { 0,1,0,-1 };
-int a[55][55];
+
 int bj_14503() {
+	int dx[] = { -1,0,1,0 };
+	int dy[] = { 0,1,0,-1 };
+	int a[55][55];
 	int n, m;
 	cin >> n >> m;
 	int x, y, dir;

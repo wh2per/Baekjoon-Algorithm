@@ -4,9 +4,8 @@
 #include <cstring>
 using namespace std;
 
-int d[1001][1001];
-
 int bj_14226(void) {
+	int d[1001][1001];
 	int n;
 	cin >> n;
 	memset(d, -1, sizeof(d));

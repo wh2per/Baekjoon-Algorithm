@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
-int a[20][20];
-int dice[7];
-int dx[] = { 0,0,-1,1 };
-int dy[] = { 1,-1,0,0 };
+
 int bj_14499() {
+	int a[20][20];
+	int dice[7];
+	int dx[] = { 0,0,-1,1 };
+	int dy[] = { 1,-1,0,0 };
 	int n, m, x, y, l;
 	cin >> n >> m >> x >> y >> l;
 	for (int i = 0; i < n; i++) {

@@ -2,11 +2,10 @@
 #include <queue>
 using namespace std;
 
-int dist[200001];            
-bool check[200001];
-long long cnt[200001];
-
 int bj_12851() {
+	int dist[200001];
+	bool check[200001];
+	long long cnt[200001];
 	int n, k;
 	cin >> n >> k;
 

@@ -1,9 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int d[1001];
-
 int bj_11727() {
+	int d[1001];
 	int n;
 	cin >> n;
 

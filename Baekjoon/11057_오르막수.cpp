@@ -2,9 +2,8 @@
 
 using namespace std;
 
-int d[1001][1001];
-
 int bj_11057() {
+	int d[1001][1001];
 	int n;
 	cin >> n;
 

@@ -1,9 +1,8 @@
 #include <iostream>
 using namespace std;
 
-long long d[91][2];
-
 int bj_2193() {
+	long long d[91][2];
 	int n;
 	cin >> n;
 

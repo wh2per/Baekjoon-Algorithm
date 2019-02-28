@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
-int d[100001];
+
 int bj_1699() {
+	int d[100001];
 	int n;
 	cin >> n;
 	for (int i = 1; i <= n; i++) {

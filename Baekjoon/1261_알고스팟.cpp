@@ -4,12 +4,12 @@
 #include <cstdio>
 
 using namespace std;
-int dx[] = { 1,-1,0,0 };		//오른쪽 왼쪽 위 아래
-int dy[] = { 0,0,-1,1 };
-int arr[101][101];
-int d[101][101];
 
 int bj_1261() {
+	int dx[] = { 1,-1,0,0 };		//오른쪽 왼쪽 위 아래
+	int dy[] = { 0,0,-1,1 };
+	int arr[101][101];
+	int d[101][101];
 	int m, n;
 	cin >> m >> n;
 

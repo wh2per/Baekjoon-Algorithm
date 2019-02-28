@@ -2,10 +2,10 @@
 #include <queue>
 #include <deque>
 using namespace std;
-bool c[1000000];
-int d[1000000];
-int MAX = 1000000;
 int bj_13549() {
+	bool c[1000000];
+	int d[1000000];
+	int MAX = 1000000;
 	int n, m;
 	cin >> n >> m;
 	c[n] = true;

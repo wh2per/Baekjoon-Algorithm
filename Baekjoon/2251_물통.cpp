@@ -1,9 +1,10 @@
 #include <iostream>
 #include <queue>
 using namespace std;
-bool ans[201];
-bool check[201][201];
+
 int bj_2251() {
+	bool ans[201];
+	bool check[201][201];
 	int a, b, c;
 	cin >> a >> b >> c;
 	int sum = c;

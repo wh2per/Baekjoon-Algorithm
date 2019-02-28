@@ -2,10 +2,10 @@
 #include <algorithm>
 using namespace std;
 
-int a[101][101];
-long long d[101][101];
-
 int bj_1890() {
+	int a[101][101];
+	long long d[101][101];
+
 	int n;
 	cin >> n;
 

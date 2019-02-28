@@ -3,11 +3,11 @@
 #include <vector>
 
 using namespace std;
-vector<int> lotto;
+vector<int> lotto_6603;
 
 void go(vector<int> &a, int index, int cnt) {
 	if (cnt == 6) {
-		for (int num : lotto) {
+		for (int num : lotto_6603) {
 			printf("%d ", num);
 		}
 		printf("\n");
@@ -15,9 +15,9 @@ void go(vector<int> &a, int index, int cnt) {
 	}
 	int n = a.size();
 	if (n == index) return;
-	lotto.push_back(a[index]);
+	lotto_6603.push_back(a[index]);
 	go(a, index + 1, cnt + 1);
-	lotto.pop_back();
+	lotto_6603.pop_back();
 	go(a, index + 1, cnt);
 }
 
@@ -36,4 +36,6 @@ int bj_6603() {
 		go(a, 0, 0);
 		cout << '\n';
 	}
+
+	return 0;
 }

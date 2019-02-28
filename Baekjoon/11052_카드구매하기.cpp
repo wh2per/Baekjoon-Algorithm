@@ -2,9 +2,9 @@
 #include <algorithm>
 using namespace std;
 
-int p[1001];
-int d[1001];
 int bj_11052() {
+	int p[1001];
+	int d[1001];
 	int n;
 	cin >> n;
 

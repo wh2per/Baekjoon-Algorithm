@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-long long d[201][201];
-long long mod = 1000000000;
-int bj_2225() {
 
+int bj_2225() {
+	long long d[201][201];
+	long long mod = 1000000000;
 	int n, k;
 	cin >> n >> k;
 	d[0][0] = 1LL;
