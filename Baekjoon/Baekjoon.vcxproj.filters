@@ -281,5 +281,8 @@
     <ClCompile Include="10430_나머지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2739_구구단.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
