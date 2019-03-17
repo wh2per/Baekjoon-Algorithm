@@ -71,6 +71,7 @@
     <ClCompile Include="1110_더하기사이클.cpp" />
     <ClCompile Include="1149_RGB거리.cpp" />
     <ClCompile Include="1152_단어의개수.cpp" />
+    <ClCompile Include="11654_아스키코드.cpp" />
     <ClCompile Include="11719_그대로출력하기2.cpp" />
     <ClCompile Include="11720_숫자의합.cpp" />
     <ClCompile Include="11721_열개씩끊어출력하기.cpp" />
