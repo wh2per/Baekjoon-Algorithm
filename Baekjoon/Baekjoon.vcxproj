@@ -111,6 +111,7 @@
     <ClCompile Include="2557_HelloWorld.cpp" />
     <ClCompile Include="2558_A-B-2.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
+    <ClCompile Include="2675_문자열반복.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
