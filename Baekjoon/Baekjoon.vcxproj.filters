@@ -314,5 +314,8 @@
     <ClCompile Include="11654_아스키코드.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10809_알파벳찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
