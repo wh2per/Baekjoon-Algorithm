@@ -116,6 +116,7 @@
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
+    <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="6603_로또.cpp" />
