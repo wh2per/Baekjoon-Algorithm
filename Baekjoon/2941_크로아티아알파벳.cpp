@@ -4,7 +4,7 @@
 #include <algorithm>	
 using namespace std;
 
-int main() {
+int bj_2941() {
 	vector<string> v = { "c=","c-","dz=","d-","lj","nj","s=","z="};
 	string s;
 	cin >> s;
