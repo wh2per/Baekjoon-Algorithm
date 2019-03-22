@@ -56,6 +56,7 @@
   <ItemGroup>
     <ClCompile Include="1018_체스판다시칠하기.cpp" />
     <ClCompile Include="10430_나머지.cpp" />
+    <ClCompile Include="1062_가르침.cpp" />
     <ClCompile Include="1065_한수.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10817_세수.cpp" />
@@ -86,6 +87,7 @@
     <ClCompile Include="13549_숨바꼭질3.cpp" />
     <ClCompile Include="13913_숨바꼭질4.cpp" />
     <ClCompile Include="14226_이모티콘.cpp" />
+    <ClCompile Include="14391_종이조각.cpp" />
     <ClCompile Include="14499_주사위굴리기.cpp" />
     <ClCompile Include="14501_퇴사.cpp" />
     <ClCompile Include="14502_연구소.cpp" />

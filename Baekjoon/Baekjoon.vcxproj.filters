@@ -335,5 +335,11 @@
     <ClCompile Include="1107_리모컨.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14391_종이조각.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1062_가르침.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
