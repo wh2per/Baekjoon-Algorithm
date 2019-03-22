@@ -332,5 +332,8 @@
     <ClCompile Include="1018_체스판다시칠하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1107_리모컨.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

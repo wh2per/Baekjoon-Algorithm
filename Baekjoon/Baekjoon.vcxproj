@@ -70,6 +70,7 @@
     <ClCompile Include="11052_카드구매하기.cpp" />
     <ClCompile Include="11053_가장긴증가하는부분수열.cpp" />
     <ClCompile Include="11057_오르막수.cpp" />
+    <ClCompile Include="1107_리모컨.cpp" />
     <ClCompile Include="1110_더하기사이클.cpp" />
     <ClCompile Include="11365_!밀비급일.cpp" />
     <ClCompile Include="1149_RGB거리.cpp" />
