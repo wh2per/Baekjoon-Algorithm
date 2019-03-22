@@ -329,5 +329,8 @@
     <ClCompile Include="2941_크로아티아알파벳.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1018_체스판다시칠하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -54,6 +54,7 @@
     <None Include="9663_N-Queen.java" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1018_체스판다시칠하기.cpp" />
     <ClCompile Include="10430_나머지.cpp" />
     <ClCompile Include="1065_한수.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
