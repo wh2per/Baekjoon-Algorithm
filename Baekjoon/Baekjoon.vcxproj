@@ -81,6 +81,7 @@
     <ClCompile Include="11720_숫자의합.cpp" />
     <ClCompile Include="11721_열개씩끊어출력하기.cpp" />
     <ClCompile Include="11727_2xn타일링2.cpp" />
+    <ClCompile Include="11729_하노이탑순서.cpp" />
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
     <ClCompile Include="13458_시험감독.cpp" />
