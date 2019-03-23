@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-int main() {
+int bj_1062() {
 	int ans = 0;
 	set<char> haveto;
 	set<char> study;
