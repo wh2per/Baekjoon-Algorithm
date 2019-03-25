@@ -102,6 +102,7 @@
     <ClCompile Include="1546_평균.cpp" />
     <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="15685_드래곤커브.cpp" />
+    <ClCompile Include="15686_치킨배달.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />
     <ClCompile Include="1759_암호만들기.cpp" />
     <ClCompile Include="1890_점프.cpp" />
