@@ -374,5 +374,8 @@
     <ClCompile Include="2751_수정렬하기2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10989_수정렬하기3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

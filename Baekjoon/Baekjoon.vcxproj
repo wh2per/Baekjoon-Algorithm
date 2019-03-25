@@ -68,6 +68,7 @@
     <ClCompile Include="10972_다음순열.cpp" />
     <ClCompile Include="10973_이전순열.cpp" />
     <ClCompile Include="10974_모든순열.cpp" />
+    <ClCompile Include="10989_수정렬하기3.cpp" />
     <ClCompile Include="11048_이동하기.cpp" />
     <ClCompile Include="11052_카드구매하기.cpp" />
     <ClCompile Include="11053_가장긴증가하는부분수열.cpp" />
