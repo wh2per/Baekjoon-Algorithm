@@ -61,6 +61,7 @@
     <ClCompile Include="1074_Z.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10817_세수.cpp" />
+    <ClCompile Include="10828_스택.cpp" />
     <ClCompile Include="10844_쉬운계단수.cpp" />
     <ClCompile Include="10871_X보다작은수.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
