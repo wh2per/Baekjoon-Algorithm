@@ -131,6 +131,7 @@
     <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
+    <ClCompile Include="3190_뱀.cpp" />
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
