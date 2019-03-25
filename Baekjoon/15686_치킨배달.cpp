@@ -6,7 +6,7 @@
 #include <climits>
 using namespace std;
 
-int main() {
+int bj_15686() {
 	int chicken_dist = INT_MAX;
 	vector<pair<int, int>> house;
 	vector<pair<int, int>> chicken;
