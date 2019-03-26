@@ -101,6 +101,8 @@
     <ClCompile Include="14502_연구소.cpp" />
     <ClCompile Include="14503_로봇청소기.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
+    <ClCompile Include="14890_경사로.cpp" />
+    <ClCompile Include="14891_톱니바퀴.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
     <ClCompile Include="1546_평균.cpp" />
     <ClCompile Include="15552_빠른A+B.cpp" />
@@ -139,6 +141,7 @@
     <ClCompile Include="3190_뱀.cpp" />
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="6603_로또.cpp" />
+    <ClCompile Include="9012_괄호.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
     <ClCompile Include="9095_1,2,3더하기.cpp" />
     <ClCompile Include="9465_스티커.cpp" />
