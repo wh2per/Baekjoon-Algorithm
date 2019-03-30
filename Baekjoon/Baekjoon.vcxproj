@@ -131,6 +131,7 @@
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
+    <ClCompile Include="2503_숫자야구.cpp" />
     <ClCompile Include="2529_부등호.cpp" />
     <ClCompile Include="2557_HelloWorld.cpp" />
     <ClCompile Include="2558_A-B-2.cpp" />
