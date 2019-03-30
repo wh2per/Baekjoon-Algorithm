@@ -72,6 +72,7 @@
     <ClCompile Include="10973_이전순열.cpp" />
     <ClCompile Include="10974_모든순열.cpp" />
     <ClCompile Include="10989_수정렬하기3.cpp" />
+    <ClCompile Include="11004_K번째수.cpp" />
     <ClCompile Include="11048_이동하기.cpp" />
     <ClCompile Include="11052_카드구매하기.cpp" />
     <ClCompile Include="11053_가장긴증가하는부분수열.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="5373_큐빙.cpp" />
     <ClCompile Include="6603_로또.cpp" />
+    <ClCompile Include="7469_K번째수.cpp" />
     <ClCompile Include="9012_괄호.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
     <ClCompile Include="9095_1,2,3더하기.cpp" />
