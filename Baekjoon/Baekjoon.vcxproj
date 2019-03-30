@@ -92,6 +92,7 @@
     <ClCompile Include="12100_2048(Easy).cpp" />
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
+    <ClCompile Include="1300_K번째수.cpp" />
     <ClCompile Include="13458_시험감독.cpp" />
     <ClCompile Include="13460_구슬탈출2.cpp" />
     <ClCompile Include="13549_숨바꼭질3.cpp" />
@@ -151,7 +152,6 @@
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="5373_큐빙.cpp" />
     <ClCompile Include="6603_로또.cpp" />
-    <ClCompile Include="7469_K번째수.cpp" />
     <ClCompile Include="9012_괄호.cpp" />
     <ClCompile Include="9019_DSLR.cpp" />
     <ClCompile Include="9095_1,2,3더하기.cpp" />
