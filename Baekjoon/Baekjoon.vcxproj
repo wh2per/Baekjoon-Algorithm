@@ -56,10 +56,12 @@
   <ItemGroup>
     <ClCompile Include="1018_체스판다시칠하기.cpp" />
     <ClCompile Include="10430_나머지.cpp" />
+    <ClCompile Include="10546_배부른마라토너.cpp" />
     <ClCompile Include="1062_가르침.cpp" />
     <ClCompile Include="1065_한수.cpp" />
     <ClCompile Include="1074_Z.cpp" />
     <ClCompile Include="10757_큰수A+B.cpp" />
+    <ClCompile Include="10799_쇠막대기.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10817_세수.cpp" />
     <ClCompile Include="10828_스택.cpp" />
@@ -122,6 +124,7 @@
     <ClCompile Include="1890_점프.cpp" />
     <ClCompile Include="1924_2007년.cpp" />
     <ClCompile Include="1929_소수만들기.cpp" />
+    <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
     <ClCompile Include="1987_알파벳.cpp" />
     <ClCompile Include="2133_타일채우기.cpp" />
@@ -144,12 +147,14 @@
     <ClCompile Include="2750_수정렬하기.cpp" />
     <ClCompile Include="2751_수정렬하기2.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
+    <ClCompile Include="2858_기숙사바닥.cpp" />
     <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="3190_뱀.cpp" />
     <ClCompile Include="3671_산업스파이.cpp" />
     <ClCompile Include="4344_평균은넘겠지.cpp" />
+    <ClCompile Include="5052_전화번호목록.cpp" />
     <ClCompile Include="5373_큐빙.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="9012_괄호.cpp" />
