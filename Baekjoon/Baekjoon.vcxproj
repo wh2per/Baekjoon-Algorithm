@@ -37,10 +37,7 @@
     <None Include="1182_부분집합의합.java" />
     <None Include="1248_맞춰봐.java" />
     <None Include="1339_단어수학.java" />
-    <None Include="14500_테트리미노.java" />
     <None Include="1476_날짜계산.java" />
-    <None Include="14888_연산자끼워넣기.java" />
-    <None Include="14889_스타트와링크.java" />
     <None Include="1676_팩토리얼0의개수.java" />
     <None Include="1697_숨바꼭질.java" />
     <None Include="1748_수이어쓰기1.java" />
@@ -95,6 +92,7 @@
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
     <ClCompile Include="1300_K번째수.cpp" />
+    <ClCompile Include="13335_트럭.cpp" />
     <ClCompile Include="13458_시험감독.cpp" />
     <ClCompile Include="13460_구슬탈출2.cpp" />
     <ClCompile Include="13549_숨바꼭질3.cpp" />
@@ -103,10 +101,13 @@
     <ClCompile Include="1436_영화감독숌.cpp" />
     <ClCompile Include="14391_종이조각.cpp" />
     <ClCompile Include="14499_주사위굴리기.cpp" />
+    <ClCompile Include="14500_테트로미노.cpp" />
     <ClCompile Include="14501_퇴사.cpp" />
     <ClCompile Include="14502_연구소.cpp" />
     <ClCompile Include="14503_로봇청소기.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
+    <ClCompile Include="14888_연산자끼워넣기.cpp" />
+    <ClCompile Include="14889_스타트와링크.cpp" />
     <ClCompile Include="14890_경사로.cpp" />
     <ClCompile Include="14891_톱니바퀴.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
+    <ClCompile Include="2493_탑.cpp" />
     <ClCompile Include="2503_숫자야구.cpp" />
     <ClCompile Include="2529_부등호.cpp" />
     <ClCompile Include="2557_HelloWorld.cpp" />
