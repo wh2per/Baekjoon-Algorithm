@@ -137,6 +137,7 @@
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
+    <ClCompile Include="2468_안전영역.cpp" />
     <ClCompile Include="2493_탑.cpp" />
     <ClCompile Include="2503_숫자야구.cpp" />
     <ClCompile Include="2529_부등호.cpp" />
