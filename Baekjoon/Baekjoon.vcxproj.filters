@@ -452,5 +452,11 @@
     <ClCompile Include="2468_안전영역.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1938_통나무옮기기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1600_말이되고픈원숭이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

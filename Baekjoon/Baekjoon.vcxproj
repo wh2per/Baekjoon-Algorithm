@@ -117,6 +117,7 @@
     <ClCompile Include="15684_사다리조작.cpp" />
     <ClCompile Include="15685_드래곤커브.cpp" />
     <ClCompile Include="15686_치킨배달.cpp" />
+    <ClCompile Include="1600_말이되고픈원숭이.cpp" />
     <ClCompile Include="16234_인구이동.cpp" />
     <ClCompile Include="16235_나무제테크.cpp" />
     <ClCompile Include="16236_아기상어.cpp" />
@@ -125,6 +126,7 @@
     <ClCompile Include="1890_점프.cpp" />
     <ClCompile Include="1924_2007년.cpp" />
     <ClCompile Include="1929_소수만들기.cpp" />
+    <ClCompile Include="1938_통나무옮기기.cpp" />
     <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
     <ClCompile Include="1987_알파벳.cpp" />
