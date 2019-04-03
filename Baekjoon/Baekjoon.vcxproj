@@ -19,11 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <None Include="1000_A+B.java" />
-    <None Include="1001_A-B.java" />
+    <None Include="1000_A+B.cpp" />
+    <None Include="1001_A-B.cpp" />
     <None Include="1002_터렛.java" />
-    <None Include="1003_피보나치함수.java" />
-    <None Include="1008_A나누기B.java" />
     <None Include="10172_개.java" />
     <None Include="10718_Welovekriii.java" />
     <None Include="10819_차이를최대로.java" />
@@ -51,6 +49,8 @@
     <None Include="9663_N-Queen.java" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1003_피보나치함수.cpp" />
+    <ClCompile Include="1008_A나누기B.cpp" />
     <ClCompile Include="1018_체스판다시칠하기.cpp" />
     <ClCompile Include="10430_나머지.cpp" />
     <ClCompile Include="10546_배부른마라토너.cpp" />

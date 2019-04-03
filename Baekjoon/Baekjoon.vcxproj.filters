@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="1000_A+B.java">
-      <Filter>소스 파일</Filter>
-    </None>
-    <None Include="1001_A-B.java">
-      <Filter>소스 파일</Filter>
-    </None>
     <None Include="1002_터렛.java">
-      <Filter>소스 파일</Filter>
-    </None>
-    <None Include="1003_피보나치함수.java">
-      <Filter>소스 파일</Filter>
-    </None>
-    <None Include="1008_A나누기B.java">
       <Filter>소스 파일</Filter>
     </None>
     <None Include="1182_부분집합의합.java">
@@ -103,6 +91,12 @@
       <Filter>소스 파일</Filter>
     </None>
     <None Include="11726_2xn타일링.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1000_A+B.cpp">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1001_A-B.cpp">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
@@ -456,6 +450,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1600_말이되고픈원숭이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1008_A나누기B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1003_피보나치함수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
