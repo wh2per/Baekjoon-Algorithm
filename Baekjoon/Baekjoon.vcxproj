@@ -139,6 +139,7 @@
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
+    <ClCompile Include="2448_별찍기-11.cpp" />
     <ClCompile Include="2468_안전영역.cpp" />
     <ClCompile Include="2493_탑.cpp" />
     <ClCompile Include="2503_숫자야구.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="2839_설탕배달.cpp" />
     <ClCompile Include="2858_기숙사바닥.cpp" />
     <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
+    <ClCompile Include="2931_가스관.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="3190_뱀.cpp" />
