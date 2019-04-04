@@ -36,7 +36,7 @@
     <None Include="1248_맞춰봐.java" />
     <None Include="1339_단어수학.java" />
     <None Include="1476_날짜계산.java" />
-    <None Include="1676_팩토리얼0의개수.java" />
+    <None Include="1676_팩토리얼0의개수.cpp" />
     <None Include="1697_숨바꼭질.java" />
     <None Include="1748_수이어쓰기1.java" />
     <None Include="1912_연속합.java" />
