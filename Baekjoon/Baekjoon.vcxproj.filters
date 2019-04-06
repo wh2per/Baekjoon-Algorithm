@@ -464,5 +464,8 @@
     <ClCompile Include="2448_별찍기-11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1932_정수삼각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

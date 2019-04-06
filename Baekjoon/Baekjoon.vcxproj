@@ -126,6 +126,7 @@
     <ClCompile Include="1890_점프.cpp" />
     <ClCompile Include="1924_2007년.cpp" />
     <ClCompile Include="1929_소수만들기.cpp" />
+    <ClCompile Include="1932_정수삼각형.cpp" />
     <ClCompile Include="1938_통나무옮기기.cpp" />
     <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
