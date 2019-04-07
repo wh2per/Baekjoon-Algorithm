@@ -45,9 +45,6 @@
     <None Include="2309_일곱난쟁이.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="2438_별찍기-1.java">
-      <Filter>소스 파일</Filter>
-    </None>
     <None Include="6064_카잉달력.java">
       <Filter>소스 파일</Filter>
     </None>
@@ -97,6 +94,9 @@
       <Filter>소스 파일</Filter>
     </None>
     <None Include="1676_팩토리얼0의개수.cpp">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="2438_별찍기-1.cpp">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
