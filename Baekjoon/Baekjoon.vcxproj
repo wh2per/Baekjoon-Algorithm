@@ -126,6 +126,7 @@
     <ClCompile Include="1924_2007년.cpp" />
     <ClCompile Include="1929_소수만들기.cpp" />
     <ClCompile Include="1932_정수삼각형.cpp" />
+    <ClCompile Include="1937_욕심쟁이판다.cpp" />
     <ClCompile Include="1938_통나무옮기기.cpp" />
     <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="2557_HelloWorld.cpp" />
     <ClCompile Include="2558_A-B-2.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
+    <ClCompile Include="2638_치즈.cpp" />
     <ClCompile Include="2675_문자열반복.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
