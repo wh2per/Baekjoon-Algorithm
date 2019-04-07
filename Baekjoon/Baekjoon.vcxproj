@@ -41,7 +41,6 @@
     <None Include="1748_수이어쓰기1.java" />
     <None Include="1912_연속합.java" />
     <None Include="2108_통계학.java" />
-    <None Include="2309_일곱난쟁이.java" />
     <None Include="2438_별찍기-1.cpp" />
     <None Include="6064_카잉달력.java" />
     <None Include="7287_등록.java" />
@@ -137,6 +136,7 @@
     <ClCompile Include="2206_벽부수고이동하기.cpp" />
     <ClCompile Include="2225_합분해.cpp" />
     <ClCompile Include="2251_물통.cpp" />
+    <ClCompile Include="2309_일곱난쟁이.cpp" />
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />

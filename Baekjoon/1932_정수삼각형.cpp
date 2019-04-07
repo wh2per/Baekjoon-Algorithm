@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int bj_1932() {
 	int n;
 	cin >> n;
 
@@ -25,7 +25,7 @@ int main() {
 	if (triangle.size() == 1)
 		return answer;
 
-	for (int i = 1; i < triangle.size(); i++) {			// 2 ÃþºÎÅÍ
+	for (int i = 1; i < triangle.size(); i++) {			
 		for (int j = 0; j <= i; j++) {
 			if (j == 0)
 				triangle[i][j] += triangle[i - 1][j];
