@@ -27,9 +27,6 @@
     <None Include="1339_단어수학.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="1476_날짜계산.java">
-      <Filter>소스 파일</Filter>
-    </None>
     <None Include="1697_숨바꼭질.java">
       <Filter>소스 파일</Filter>
     </None>
@@ -94,6 +91,9 @@
       <Filter>소스 파일</Filter>
     </None>
     <None Include="2438_별찍기-1.cpp">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1476_날짜계산.java">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
@@ -474,6 +474,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9376_탈옥.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13301_타일장식물.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
