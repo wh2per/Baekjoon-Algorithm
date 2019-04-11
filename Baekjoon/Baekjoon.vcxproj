@@ -167,6 +167,7 @@
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="5052_전화번호목록.cpp" />
     <ClCompile Include="5373_큐빙.cpp" />
+    <ClCompile Include="5427_불.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="7662_이중우선순위큐.cpp" />
     <ClCompile Include="9012_괄호.cpp" />

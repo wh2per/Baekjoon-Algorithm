@@ -479,5 +479,8 @@
     <ClCompile Include="13301_타일장식물.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5427_불.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
