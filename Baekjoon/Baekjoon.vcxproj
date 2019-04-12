@@ -122,6 +122,7 @@
     <ClCompile Include="16235_나무제테크.cpp" />
     <ClCompile Include="16236_아기상어.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />
+    <ClCompile Include="1726_로봇.cpp" />
     <ClCompile Include="1759_암호만들기.cpp" />
     <ClCompile Include="1890_점프.cpp" />
     <ClCompile Include="1924_2007년.cpp" />
@@ -134,6 +135,7 @@
     <ClCompile Include="1987_알파벳.cpp" />
     <ClCompile Include="2133_타일채우기.cpp" />
     <ClCompile Include="2156_포도주시식.cpp" />
+    <ClCompile Include="2169_로봇조종하기.cpp" />
     <ClCompile Include="2193_이친수.cpp" />
     <ClCompile Include="2206_벽부수고이동하기.cpp" />
     <ClCompile Include="2225_합분해.cpp" />
