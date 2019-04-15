@@ -488,5 +488,8 @@
     <ClCompile Include="2169_로봇조종하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9365_패션왕신해빈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
