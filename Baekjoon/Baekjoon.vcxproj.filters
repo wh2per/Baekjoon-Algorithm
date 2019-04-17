@@ -491,5 +491,17 @@
     <ClCompile Include="9365_패션왕신해빈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1085_직사각형에서탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2292_벌집.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1193_분수찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1475_방번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

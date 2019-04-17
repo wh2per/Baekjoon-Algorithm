@@ -63,6 +63,7 @@
     <ClCompile Include="10828_스택.cpp" />
     <ClCompile Include="10844_쉬운계단수.cpp" />
     <ClCompile Include="10845_큐.cpp" />
+    <ClCompile Include="1085_직사각형에서탈출.cpp" />
     <ClCompile Include="10871_X보다작은수.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
     <ClCompile Include="10952_A+B-5.cpp" />
@@ -87,6 +88,7 @@
     <ClCompile Include="11721_열개씩끊어출력하기.cpp" />
     <ClCompile Include="11727_2xn타일링2.cpp" />
     <ClCompile Include="11729_하노이탑순서.cpp" />
+    <ClCompile Include="1193_분수찾기.cpp" />
     <ClCompile Include="12100_2048(Easy).cpp" />
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
@@ -106,6 +108,7 @@
     <ClCompile Include="14502_연구소.cpp" />
     <ClCompile Include="14503_로봇청소기.cpp" />
     <ClCompile Include="1463_1로만들기.cpp" />
+    <ClCompile Include="1475_방번호.cpp" />
     <ClCompile Include="14888_연산자끼워넣기.cpp" />
     <ClCompile Include="14889_스타트와링크.cpp" />
     <ClCompile Include="14890_경사로.cpp" />
@@ -140,6 +143,7 @@
     <ClCompile Include="2206_벽부수고이동하기.cpp" />
     <ClCompile Include="2225_합분해.cpp" />
     <ClCompile Include="2251_물통.cpp" />
+    <ClCompile Include="2292_벌집.cpp" />
     <ClCompile Include="2309_일곱난쟁이.cpp" />
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
