@@ -88,6 +88,7 @@
     <ClCompile Include="11721_열개씩끊어출력하기.cpp" />
     <ClCompile Include="11727_2xn타일링2.cpp" />
     <ClCompile Include="11729_하노이탑순서.cpp" />
+    <ClCompile Include="1181_단어정렬.cpp" />
     <ClCompile Include="1193_분수찾기.cpp" />
     <ClCompile Include="12100_2048(Easy).cpp" />
     <ClCompile Include="1261_알고스팟.cpp" />
