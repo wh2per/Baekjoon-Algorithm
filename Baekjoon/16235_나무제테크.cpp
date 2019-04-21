@@ -13,80 +13,74 @@ struct info_tree {
 	int count;
 };
 
-struct cmp_tree {
-	bool operator()(info_tree& if1, info_tree& if2) {
-		if (if1.count < if2.count)
-			return true;
-		else
-			return false;
-	}
-};
+int map_tree[11][11];
+int A[11][11];
+vector<int> tree[11][11];
 
-int main() {
+int bj_16235() {
 	int N, M, K;
 	cin >> N >> M >> K;
-	vector<vector<int>> map_tree(N, vector<int>(N, 5));
-	vector<vector<int>> A(N, vector<int>(N, 0));
-	vector<info_tree> tree;
-
+	
 	for (int i = 0; i < N; ++i) {
-		for (int j = 0; j < N; ++j) 
+		for (int j = 0; j < N; ++j) {
 			cin >> A[i][j];
+			map_tree[i][j] = 5;
+		}
 	}
 
 	for (int i = 0; i < M; ++i) {
 		int y, x, count;
 		cin >> y >> x >> count;
-		tree.push_back({y-1,x-1,count});
+		tree[y-1][x-1].push_back(count);
 	}
 
 	for (int z = 0; z < K; ++z) {
-		// 봄
-		sort(tree.begin(), tree.end(), cmp_tree());
-		vector<info_tree> tree_next;
-		vector<info_tree> tree_dead;
-		for (int i = 0; i < tree.size(); ++i) {
-			int y = tree[i].y;
-			int x = tree[i].x;
-			int count = tree[i].count;
+		// 봄 + 여름
+		for (int i = 0; i <= N; ++i) {
+			for (int j = 0; j <= N; ++j) {
+				if (tree[i][j].size() == 0)
+					continue;
+				int die_energy = 0;
+				vector<int> temp;
 
-			if (count > map_tree[y][x])
-				tree_dead.push_back(tree[i]);		// 죽은 나무 추가
-			else {
-				map_tree[y][x] -= count;
-				++count;
-				tree_next.push_back({ y,x,count });
+				sort(tree[i][j].begin(), tree[i][j].end());		// 가장 어린 나이 나무 채택
+				for (int k = 0; k < tree[i][j].size(); ++k) {
+					int age = tree[i][j][k];
+					if (map_tree[i][j] >= age) {
+						map_tree[i][j] -= age;
+						temp.push_back(age + 1);
+					}
+					else
+						die_energy += age / 2;
+				}
+
+				tree[i][j].clear();
+				for (int k = 0; k < temp.size(); ++k)
+					tree[i][j].push_back(temp[k]);
+				map_tree[i][j] += die_energy;
 			}
-		}
-
-		// 여름
-		for (int i = 0; i < tree_dead.size(); ++i) {
-			int y = tree_dead[i].y;
-			int x = tree_dead[i].x;
-			int count = tree_dead[i].count;
-
-			map_tree[y][x] += count / 2;
 		}
 
 		// 가을
-		int tsize = tree_next.size();
-		for (int i = 0; i < tsize; ++i) {
-			if (tree_next[i].count % 5 == 0) {		// 5의 배수
-				int y = tree_next[i].y;
-				int x = tree_next[i].x;
-				for (int k = 0; k < 8; ++k) {
-					int ny = y + dy[k];
-					int nx = x + dx[k];
+		for (int i = 0; i <= N; ++i) {
+			for (int j = 0; j <= N; ++j) {
+				if (tree[i][j].size() == 0)
+					continue;
+				for (int k = 0; k < tree[i][j].size(); ++k) {
+					int age = tree[i][j][k];
+					if (age % 5 == 0) {
+						for (int e = 0; e < 8; ++e) {
+							int ny = i + dy[e];
+							int nx = j + dx[e];
 
-					if (ny < 0 || ny >= N || nx < 0 || nx >= N)
-						continue;
-					
-					tree_next.push_back({ny,nx,1});
+							if (ny < 0 || ny >= N || nx < 0 || nx >= N)
+								continue;
+							tree[ny][nx].push_back(1);
+						}
+					}
 				}
 			}
 		}
-
-		tree = tree_next;
 
 		// 겨울
 		for (int i = 0; i < N; ++i) {
@@ -94,8 +88,11 @@ int main() {
 				map_tree[i][j] += A[i][j];
 		}
 	}
-
-	cout << tree.size();
-
+	int ans = 0;
+	for (int i = 0; i < N; ++i) {
+		for (int j = 0; j < N; ++j)
+			ans += tree[i][j].size();
+	}
+	cout << ans;
 	return 0;
 }
