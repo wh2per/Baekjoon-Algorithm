@@ -50,6 +50,7 @@
   <ItemGroup>
     <ClCompile Include="1003_피보나치함수.cpp" />
     <ClCompile Include="1008_A나누기B.cpp" />
+    <ClCompile Include="1011_FlyMeToTheAlphaCentauri.cpp" />
     <ClCompile Include="1018_체스판다시칠하기.cpp" />
     <ClCompile Include="10430_나머지.cpp" />
     <ClCompile Include="10546_배부른마라토너.cpp" />
@@ -140,6 +141,7 @@
     <ClCompile Include="1987_알파벳.cpp" />
     <ClCompile Include="2133_타일채우기.cpp" />
     <ClCompile Include="2156_포도주시식.cpp" />
+    <ClCompile Include="2164_카드2.cpp" />
     <ClCompile Include="2169_로봇조종하기.cpp" />
     <ClCompile Include="2193_이친수.cpp" />
     <ClCompile Include="2206_벽부수고이동하기.cpp" />
@@ -150,6 +152,7 @@
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
+    <ClCompile Include="2447_별찍기-10.cpp" />
     <ClCompile Include="2448_별찍기-11.cpp" />
     <ClCompile Include="2468_안전영역.cpp" />
     <ClCompile Include="2493_탑.cpp" />

@@ -509,5 +509,14 @@
     <ClCompile Include="11050_이항계수1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1011_FlyMeToTheAlphaCentauri.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2447_별찍기-10.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2164_카드2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
