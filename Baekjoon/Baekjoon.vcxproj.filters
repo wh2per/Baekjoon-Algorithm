@@ -518,5 +518,14 @@
     <ClCompile Include="2164_카드2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4948_베르트랑공준.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9020_골드바흐의추측.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6588_골드바흐의추측.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
