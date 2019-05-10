@@ -58,6 +58,7 @@
     <ClCompile Include="1065_한수.cpp" />
     <ClCompile Include="1074_Z.cpp" />
     <ClCompile Include="10757_큰수A+B.cpp" />
+    <ClCompile Include="10773_제로.cpp" />
     <ClCompile Include="10799_쇠막대기.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10817_세수.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="2251_물통.cpp" />
     <ClCompile Include="2292_벌집.cpp" />
     <ClCompile Include="2309_일곱난쟁이.cpp" />
+    <ClCompile Include="2312_수복원하기.cpp" />
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
@@ -178,6 +180,7 @@
     <ClCompile Include="3671_산업스파이.cpp" />
     <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="4948_베르트랑공준.cpp" />
+    <ClCompile Include="4949_균형잡힌세상.cpp" />
     <ClCompile Include="5052_전화번호목록.cpp" />
     <ClCompile Include="5373_큐빙.cpp" />
     <ClCompile Include="5427_불.cpp" />
