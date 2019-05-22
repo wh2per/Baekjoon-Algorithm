@@ -84,6 +84,7 @@
     <ClCompile Include="11365_!밀비급일.cpp" />
     <ClCompile Include="1149_RGB거리.cpp" />
     <ClCompile Include="1152_단어의개수.cpp" />
+    <ClCompile Include="1158_조세퍼스문제.cpp" />
     <ClCompile Include="11650_좌표정렬하기.cpp" />
     <ClCompile Include="11654_아스키코드.cpp" />
     <ClCompile Include="11719_그대로출력하기2.cpp" />

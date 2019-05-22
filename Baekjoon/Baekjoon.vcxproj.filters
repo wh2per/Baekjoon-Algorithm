@@ -539,5 +539,8 @@
     <ClCompile Include="4949_균형잡힌세상.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1158_조세퍼스문제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
