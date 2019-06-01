@@ -17,5 +17,6 @@ int bj_2609() {
 
 	cout << f<<'\n';
 	cout << a * b / f;
+
 	return 0;
 }
