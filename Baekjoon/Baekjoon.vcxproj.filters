@@ -542,5 +542,8 @@
     <ClCompile Include="1158_조세퍼스문제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2609_최대공약수와최소공배수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
