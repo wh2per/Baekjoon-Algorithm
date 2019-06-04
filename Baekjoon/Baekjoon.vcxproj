@@ -52,6 +52,7 @@
     <ClCompile Include="1008_A나누기B.cpp" />
     <ClCompile Include="1011_FlyMeToTheAlphaCentauri.cpp" />
     <ClCompile Include="1018_체스판다시칠하기.cpp" />
+    <ClCompile Include="1021_회전하는큐.cpp" />
     <ClCompile Include="10430_나머지.cpp" />
     <ClCompile Include="10546_배부른마라토너.cpp" />
     <ClCompile Include="1062_가르침.cpp" />
