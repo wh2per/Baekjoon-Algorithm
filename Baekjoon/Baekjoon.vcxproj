@@ -200,6 +200,7 @@
     <ClCompile Include="9095_1,2,3더하기.cpp" />
     <ClCompile Include="9365_패션왕신해빈.cpp" />
     <ClCompile Include="9376_탈옥.cpp" />
+    <ClCompile Include="9461_파도반수열.cpp" />
     <ClCompile Include="9465_스티커.cpp" />
     <ClCompile Include="9498_시험성적.cpp" />
   </ItemGroup>
