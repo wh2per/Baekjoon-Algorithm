@@ -105,6 +105,7 @@
     <ClCompile Include="13335_트럭.cpp" />
     <ClCompile Include="13458_시험감독.cpp" />
     <ClCompile Include="13460_구슬탈출2.cpp" />
+    <ClCompile Include="1351_무한수열.cpp" />
     <ClCompile Include="13549_숨바꼭질3.cpp" />
     <ClCompile Include="13913_숨바꼭질4.cpp" />
     <ClCompile Include="14226_이모티콘.cpp" />
