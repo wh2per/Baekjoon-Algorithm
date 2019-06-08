@@ -156,6 +156,7 @@
     <ClCompile Include="2225_합분해.cpp" />
     <ClCompile Include="2251_물통.cpp" />
     <ClCompile Include="2292_벌집.cpp" />
+    <ClCompile Include="2293_동전1.cpp" />
     <ClCompile Include="2309_일곱난쟁이.cpp" />
     <ClCompile Include="2312_수복원하기.cpp" />
     <ClCompile Include="2439_별찍기-2.cpp" />
