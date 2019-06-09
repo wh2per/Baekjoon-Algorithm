@@ -101,6 +101,7 @@
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
     <ClCompile Include="1300_K번째수.cpp" />
+    <ClCompile Include="1309_동물원.cpp" />
     <ClCompile Include="13301_타일장식물.cpp" />
     <ClCompile Include="13335_트럭.cpp" />
     <ClCompile Include="13458_시험감독.cpp" />
