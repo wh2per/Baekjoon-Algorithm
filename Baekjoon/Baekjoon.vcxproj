@@ -202,6 +202,7 @@
     <ClCompile Include="9019_DSLR.cpp" />
     <ClCompile Include="9020_골드바흐의추측.cpp" />
     <ClCompile Include="9095_1,2,3더하기.cpp" />
+    <ClCompile Include="9251_LCS.cpp" />
     <ClCompile Include="9365_패션왕신해빈.cpp" />
     <ClCompile Include="9376_탈옥.cpp" />
     <ClCompile Include="9461_파도반수열.cpp" />
