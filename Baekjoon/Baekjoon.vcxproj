@@ -125,6 +125,7 @@
     <ClCompile Include="14891_톱니바퀴.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
     <ClCompile Include="1546_평균.cpp" />
+    <ClCompile Include="15483_최소편집.cpp" />
     <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="15683_감시.cpp" />
     <ClCompile Include="15684_사다리조작.cpp" />
