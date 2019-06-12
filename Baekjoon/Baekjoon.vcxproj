@@ -177,6 +177,7 @@
     <ClCompile Include="2638_치즈.cpp" />
     <ClCompile Include="2675_문자열반복.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
+    <ClCompile Include="2740_행렬곱셈.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
     <ClCompile Include="2747_피보나치수.cpp" />
     <ClCompile Include="2750_수정렬하기.cpp" />
