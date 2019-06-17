@@ -593,5 +593,8 @@
     <ClCompile Include="1850_최대공약수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2903_중앙이동알고리즘.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
