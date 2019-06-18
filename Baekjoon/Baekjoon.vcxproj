@@ -63,6 +63,7 @@
     <ClCompile Include="10799_쇠막대기.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10817_세수.cpp" />
+    <ClCompile Include="10826_피보나치수4.cpp" />
     <ClCompile Include="10828_스택.cpp" />
     <ClCompile Include="10844_쉬운계단수.cpp" />
     <ClCompile Include="10845_큐.cpp" />
