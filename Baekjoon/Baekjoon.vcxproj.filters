@@ -602,5 +602,8 @@
     <ClCompile Include="11051_이항계수2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11066_파일합치기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
