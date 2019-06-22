@@ -199,6 +199,7 @@
     <ClCompile Include="3190_뱀.cpp" />
     <ClCompile Include="3671_산업스파이.cpp" />
     <ClCompile Include="4344_평균은넘겠지.cpp" />
+    <ClCompile Include="4673_셀프넘버.cpp" />
     <ClCompile Include="4948_베르트랑공준.cpp" />
     <ClCompile Include="4949_균형잡힌세상.cpp" />
     <ClCompile Include="5052_전화번호목록.cpp" />

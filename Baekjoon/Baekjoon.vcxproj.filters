@@ -608,5 +608,8 @@
     <ClCompile Include="2742_기찍N.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4673_셀프넘버.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
