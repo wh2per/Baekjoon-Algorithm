@@ -611,5 +611,8 @@
     <ClCompile Include="4673_셀프넘버.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10250_ACM호텔.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
