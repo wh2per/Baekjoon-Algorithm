@@ -196,6 +196,7 @@
     <ClCompile Include="2753_윤년.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
     <ClCompile Include="2858_기숙사바닥.cpp" />
+    <ClCompile Include="2884_알람시계.cpp" />
     <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
     <ClCompile Include="2903_중앙이동알고리즘.cpp" />
     <ClCompile Include="2931_가스관.cpp" />

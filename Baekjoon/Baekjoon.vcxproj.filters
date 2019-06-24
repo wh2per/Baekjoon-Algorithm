@@ -626,5 +626,8 @@
     <ClCompile Include="2753_윤년.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2884_알람시계.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
