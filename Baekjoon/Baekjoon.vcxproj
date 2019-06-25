@@ -81,6 +81,7 @@
     <ClCompile Include="10989_수정렬하기3.cpp" />
     <ClCompile Include="11004_K번째수.cpp" />
     <ClCompile Include="11021_A+B-7.cpp" />
+    <ClCompile Include="11022_A+B-8.cpp" />
     <ClCompile Include="11048_이동하기.cpp" />
     <ClCompile Include="11050_이항계수1.cpp" />
     <ClCompile Include="11051_이항계수2.cpp" />
