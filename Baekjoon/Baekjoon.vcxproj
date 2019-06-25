@@ -184,6 +184,7 @@
     <ClCompile Include="2529_부등호.cpp" />
     <ClCompile Include="2557_HelloWorld.cpp" />
     <ClCompile Include="2558_A-B-2.cpp" />
+    <ClCompile Include="2562_최otrkqt.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
     <ClCompile Include="2588_곱셈.cpp" />
     <ClCompile Include="2609_최대공약수와최소공배수.cpp" />
