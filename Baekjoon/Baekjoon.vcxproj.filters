@@ -644,5 +644,8 @@
     <ClCompile Include="2577_숫자의개수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8958_OX퀴즈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
