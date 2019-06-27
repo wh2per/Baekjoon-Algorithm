@@ -207,6 +207,7 @@
     <ClCompile Include="2884_알람시계.cpp" />
     <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
     <ClCompile Include="2903_중앙이동알고리즘.cpp" />
+    <ClCompile Include="2908_상수.cpp" />
     <ClCompile Include="2920_음계.cpp" />
     <ClCompile Include="2931_가스관.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
