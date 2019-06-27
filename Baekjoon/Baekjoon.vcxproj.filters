@@ -656,5 +656,8 @@
     <ClCompile Include="15596_정수N개의합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1157_단어공부.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
