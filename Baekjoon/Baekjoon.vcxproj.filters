@@ -653,5 +653,8 @@
     <ClCompile Include="10870_피보나치수5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15596_정수N개의합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

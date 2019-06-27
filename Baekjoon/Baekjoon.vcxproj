@@ -139,6 +139,7 @@
     <ClCompile Include="1546_평균.cpp" />
     <ClCompile Include="15483_최소편집.cpp" />
     <ClCompile Include="15552_빠른A+B.cpp" />
+    <ClCompile Include="15596_정수N개의합.cpp" />
     <ClCompile Include="15683_감시.cpp" />
     <ClCompile Include="15684_사다리조작.cpp" />
     <ClCompile Include="15685_드래곤커브.cpp" />
