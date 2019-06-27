@@ -222,6 +222,7 @@
     <ClCompile Include="5373_큐빙.cpp" />
     <ClCompile Include="5427_불.cpp" />
     <ClCompile Include="5430_AC.cpp" />
+    <ClCompile Include="5622_다이얼.cpp" />
     <ClCompile Include="6588_골드바흐의추측.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="7662_이중우선순위큐.cpp" />
