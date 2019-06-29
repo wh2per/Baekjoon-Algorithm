@@ -668,5 +668,17 @@
     <ClCompile Include="1316_그룹단어체커.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2775_부녀회장이될테야.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1427_소트인사이드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11651_좌표정렬하기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2581_소수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

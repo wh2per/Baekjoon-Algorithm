@@ -99,6 +99,7 @@
     <ClCompile Include="1157_단어공부.cpp" />
     <ClCompile Include="1158_조세퍼스문제.cpp" />
     <ClCompile Include="11650_좌표정렬하기.cpp" />
+    <ClCompile Include="11651_좌표정렬하기2.cpp" />
     <ClCompile Include="11654_아스키코드.cpp" />
     <ClCompile Include="11719_그대로출력하기2.cpp" />
     <ClCompile Include="11720_숫자의합.cpp" />
@@ -123,6 +124,7 @@
     <ClCompile Include="13549_숨바꼭질3.cpp" />
     <ClCompile Include="13913_숨바꼭질4.cpp" />
     <ClCompile Include="14226_이모티콘.cpp" />
+    <ClCompile Include="1427_소트인사이드.cpp" />
     <ClCompile Include="1436_영화감독숌.cpp" />
     <ClCompile Include="14391_종이조각.cpp" />
     <ClCompile Include="14490_백대열.cpp" />
@@ -191,6 +193,7 @@
     <ClCompile Include="2562_최otrkqt.cpp" />
     <ClCompile Include="2577_숫자의개수.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
+    <ClCompile Include="2581_소수.cpp" />
     <ClCompile Include="2588_곱셈.cpp" />
     <ClCompile Include="2609_최대공약수와최소공배수.cpp" />
     <ClCompile Include="2638_치즈.cpp" />
@@ -203,6 +206,7 @@
     <ClCompile Include="2750_수정렬하기.cpp" />
     <ClCompile Include="2751_수정렬하기2.cpp" />
     <ClCompile Include="2753_윤년.cpp" />
+    <ClCompile Include="2775_부녀회장이될테야.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
     <ClCompile Include="2858_기숙사바닥.cpp" />
     <ClCompile Include="2884_알람시계.cpp" />
