@@ -107,6 +107,7 @@
     <ClCompile Include="11727_2xn타일링2.cpp" />
     <ClCompile Include="11729_하노이탑순서.cpp" />
     <ClCompile Include="1181_단어정렬.cpp" />
+    <ClCompile Include="11866_조세퍼스문제0.cpp" />
     <ClCompile Include="1193_분수찾기.cpp" />
     <ClCompile Include="1194_달이차오른다,가자.cpp" />
     <ClCompile Include="12100_2048(Easy).cpp" />
@@ -190,7 +191,7 @@
     <ClCompile Include="2529_부등호.cpp" />
     <ClCompile Include="2557_HelloWorld.cpp" />
     <ClCompile Include="2558_A-B-2.cpp" />
-    <ClCompile Include="2562_최otrkqt.cpp" />
+    <ClCompile Include="2562_최댓값.cpp" />
     <ClCompile Include="2577_숫자의개수.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
     <ClCompile Include="2581_소수.cpp" />
@@ -216,6 +217,7 @@
     <ClCompile Include="2920_음계.cpp" />
     <ClCompile Include="2931_가스관.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
+    <ClCompile Include="3052_나머지.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="3190_뱀.cpp" />
     <ClCompile Include="3671_산업스파이.cpp" />

@@ -638,9 +638,6 @@
     <ClCompile Include="10951_A+B-4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2562_최otrkqt.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2577_숫자의개수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -678,6 +675,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2581_소수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3052_나머지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11866_조세퍼스문제0.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2562_최댓값.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
