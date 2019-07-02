@@ -220,6 +220,7 @@
     <ClCompile Include="2920_음계.cpp" />
     <ClCompile Include="2931_가스관.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
+    <ClCompile Include="3009_네번째점.cpp" />
     <ClCompile Include="3052_나머지.cpp" />
     <ClCompile Include="3055_탈출.cpp" />
     <ClCompile Include="3190_뱀.cpp" />
