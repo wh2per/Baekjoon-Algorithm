@@ -2,7 +2,7 @@
 #include <queue>
 using namespace std;
 
-int main() {
+int bj_11866() {
 	int n, k;
 	cin >> n >> k;
 	queue<int> q;

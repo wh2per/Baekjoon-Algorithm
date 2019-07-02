@@ -65,6 +65,7 @@
     <ClCompile Include="10799_쇠막대기.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10817_세수.cpp" />
+    <ClCompile Include="10818_최소,최대.cpp" />
     <ClCompile Include="10826_피보나치수4.cpp" />
     <ClCompile Include="10828_스택.cpp" />
     <ClCompile Include="10844_쉬운계단수.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="16235_나무제테크.cpp" />
     <ClCompile Include="16236_아기상어.cpp" />
     <ClCompile Include="1699_제곱수의합.cpp" />
+    <ClCompile Include="1712_손익분기점.cpp" />
     <ClCompile Include="1726_로봇.cpp" />
     <ClCompile Include="1759_암호만들기.cpp" />
     <ClCompile Include="1850_최대공약수.cpp" />
@@ -210,6 +212,7 @@
     <ClCompile Include="2775_부녀회장이될테야.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
     <ClCompile Include="2858_기숙사바닥.cpp" />
+    <ClCompile Include="2869_달팽이는올라가고싶다.cpp" />
     <ClCompile Include="2884_알람시계.cpp" />
     <ClCompile Include="2902_KMP는왜KMP일까.cpp" />
     <ClCompile Include="2903_중앙이동알고리즘.cpp" />
