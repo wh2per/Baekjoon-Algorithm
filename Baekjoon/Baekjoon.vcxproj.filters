@@ -704,5 +704,8 @@
     <ClCompile Include="3053_택시기하학.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7568_덩치.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

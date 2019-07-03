@@ -11,5 +11,7 @@ int bj_3053(){
 	cout.precision(6);
 
 	cout << x * x*M_PI << endl;
-	cout << x * x * 2.0 << endl;
+	cout << x * x * 2.0 << endl;	
+
+	return 0;
 }

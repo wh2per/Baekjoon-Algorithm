@@ -238,6 +238,7 @@
     <ClCompile Include="5622_다이얼.cpp" />
     <ClCompile Include="6588_골드바흐의추측.cpp" />
     <ClCompile Include="6603_로또.cpp" />
+    <ClCompile Include="7568_덩치.cpp" />
     <ClCompile Include="7662_이중우선순위큐.cpp" />
     <ClCompile Include="8958_OX퀴즈.cpp" />
     <ClCompile Include="9012_괄호.cpp" />
