@@ -64,6 +64,7 @@
     <ClCompile Include="10773_제로.cpp" />
     <ClCompile Include="10799_쇠막대기.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
+    <ClCompile Include="10814_나이순정렬.cpp" />
     <ClCompile Include="10817_세수.cpp" />
     <ClCompile Include="10818_최소,최대.cpp" />
     <ClCompile Include="10826_피보나치수4.cpp" />
@@ -212,6 +213,7 @@
     <ClCompile Include="2751_수정렬하기2.cpp" />
     <ClCompile Include="2753_윤년.cpp" />
     <ClCompile Include="2775_부녀회장이될테야.cpp" />
+    <ClCompile Include="2798_블랙잭.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
     <ClCompile Include="2858_기숙사바닥.cpp" />
     <ClCompile Include="2869_달팽이는올라가고싶다.cpp" />
