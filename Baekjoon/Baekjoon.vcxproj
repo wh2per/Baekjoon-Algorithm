@@ -158,6 +158,7 @@
     <ClCompile Include="1699_제곱수의합.cpp" />
     <ClCompile Include="1712_손익분기점.cpp" />
     <ClCompile Include="1726_로봇.cpp" />
+    <ClCompile Include="17298_오큰수.cpp" />
     <ClCompile Include="1759_암호만들기.cpp" />
     <ClCompile Include="1850_최대공약수.cpp" />
     <ClCompile Include="1874_스택수열.cpp" />
