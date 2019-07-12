@@ -39,7 +39,7 @@
     <None Include="1676_팩토리얼0의개수.cpp" />
     <None Include="1697_숨바꼭질.java" />
     <None Include="1748_수이어쓰기1.java" />
-    <None Include="1912_연속합.java" />
+    <None Include="1912_연속합.cpp" />
     <None Include="2108_통계학.java" />
     <None Include="2438_별찍기-1.cpp" />
     <None Include="6064_카잉달력.java" />
@@ -91,6 +91,7 @@
     <ClCompile Include="11051_이항계수2.cpp" />
     <ClCompile Include="11052_카드구매하기.cpp" />
     <ClCompile Include="11053_가장긴증가하는부분수열.cpp" />
+    <ClCompile Include="11054_가장긴바이토닉부분수열.cpp" />
     <ClCompile Include="11055_가장큰증가부분수열.cpp" />
     <ClCompile Include="11057_오르막수.cpp" />
     <ClCompile Include="11066_파일합치기.cpp" />

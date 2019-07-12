@@ -33,9 +33,6 @@
     <None Include="1748_수이어쓰기1.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="1912_연속합.java">
-      <Filter>소스 파일</Filter>
-    </None>
     <None Include="2108_통계학.java">
       <Filter>소스 파일</Filter>
     </None>
@@ -94,6 +91,9 @@
       <Filter>소스 파일</Filter>
     </None>
     <None Include="1476_날짜계산.java">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="1912_연속합.cpp">
       <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
@@ -732,6 +732,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11722_가장긴감소하는부분수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11054_가장긴바이토닉부분수열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
