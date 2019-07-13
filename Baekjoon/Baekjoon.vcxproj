@@ -124,6 +124,7 @@
     <ClCompile Include="13301_타일장식물.cpp" />
     <ClCompile Include="1330_두수비교하기.cpp" />
     <ClCompile Include="13335_트럭.cpp" />
+    <ClCompile Include="13398_연속합2.cpp" />
     <ClCompile Include="13458_시험감독.cpp" />
     <ClCompile Include="13460_구슬탈출2.cpp" />
     <ClCompile Include="1351_무한수열.cpp" />
