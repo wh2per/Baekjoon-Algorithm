@@ -146,6 +146,7 @@
     <ClCompile Include="14889_스타트와링크.cpp" />
     <ClCompile Include="14890_경사로.cpp" />
     <ClCompile Include="14891_톱니바퀴.cpp" />
+    <ClCompile Include="1495_기타리스트.cpp" />
     <ClCompile Include="1525_퍼즐.cpp" />
     <ClCompile Include="1546_평균.cpp" />
     <ClCompile Include="15483_최소편집.cpp" />
