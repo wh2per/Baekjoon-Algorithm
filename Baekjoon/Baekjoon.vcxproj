@@ -204,6 +204,7 @@
     <ClCompile Include="2557_HelloWorld.cpp" />
     <ClCompile Include="2558_A-B-2.cpp" />
     <ClCompile Include="2562_최댓값.cpp" />
+    <ClCompile Include="2565_전깃줄.cpp" />
     <ClCompile Include="2577_숫자의개수.cpp" />
     <ClCompile Include="2579_계단오르기.cpp" />
     <ClCompile Include="2581_소수.cpp" />

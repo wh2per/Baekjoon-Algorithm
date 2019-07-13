@@ -743,5 +743,8 @@
     <ClCompile Include="1495_기타리스트.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2565_전깃줄.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
