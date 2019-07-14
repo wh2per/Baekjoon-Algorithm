@@ -746,5 +746,8 @@
     <ClCompile Include="2565_전깃줄.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1520_내리막길.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
