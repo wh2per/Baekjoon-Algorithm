@@ -95,6 +95,7 @@
     <ClCompile Include="11054_가장긴바이토닉부분수열.cpp" />
     <ClCompile Include="11055_가장큰증가부분수열.cpp" />
     <ClCompile Include="11057_오르막수.cpp" />
+    <ClCompile Include="11058_크리보드.cpp" />
     <ClCompile Include="11066_파일합치기.cpp" />
     <ClCompile Include="1107_리모컨.cpp" />
     <ClCompile Include="1110_더하기사이클.cpp" />
