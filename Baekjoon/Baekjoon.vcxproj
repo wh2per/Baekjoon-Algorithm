@@ -75,6 +75,7 @@
     <ClCompile Include="10866_덱.cpp" />
     <ClCompile Include="10870_피보나치수5.cpp" />
     <ClCompile Include="10871_X보다작은수.cpp" />
+    <ClCompile Include="10942_팰린드롬.cpp" />
     <ClCompile Include="1094_막대기.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
     <ClCompile Include="10951_A+B-4.cpp" />

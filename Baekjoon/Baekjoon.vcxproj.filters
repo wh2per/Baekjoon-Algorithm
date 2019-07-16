@@ -749,5 +749,8 @@
     <ClCompile Include="1520_내리막길.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10942_팰린드롬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
