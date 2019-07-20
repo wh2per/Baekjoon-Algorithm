@@ -88,6 +88,7 @@
     <ClCompile Include="11021_A+B-7.cpp" />
     <ClCompile Include="11022_A+B-8.cpp" />
     <ClCompile Include="11048_이동하기.cpp" />
+    <ClCompile Include="11049_행렬곱셈순서.cpp" />
     <ClCompile Include="11050_이항계수1.cpp" />
     <ClCompile Include="11051_이항계수2.cpp" />
     <ClCompile Include="11052_카드구매하기.cpp" />
