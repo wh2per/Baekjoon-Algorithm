@@ -121,6 +121,7 @@
     <ClCompile Include="12100_2048(Easy).cpp" />
     <ClCompile Include="1261_알고스팟.cpp" />
     <ClCompile Include="12851_숨바꼭질2.cpp" />
+    <ClCompile Include="12865_평범한배낭.cpp" />
     <ClCompile Include="1300_K번째수.cpp" />
     <ClCompile Include="1309_동물원.cpp" />
     <ClCompile Include="1316_그룹단어체커.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="15684_사다리조작.cpp" />
     <ClCompile Include="15685_드래곤커브.cpp" />
     <ClCompile Include="15686_치킨배달.cpp" />
+    <ClCompile Include="15894_수학은체육과목입니다.cpp" />
     <ClCompile Include="1600_말이되고픈원숭이.cpp" />
     <ClCompile Include="16234_인구이동.cpp" />
     <ClCompile Include="16235_나무제테크.cpp" />
@@ -217,6 +219,7 @@
     <ClCompile Include="2609_최대공약수와최소공배수.cpp" />
     <ClCompile Include="2638_치즈.cpp" />
     <ClCompile Include="2675_문자열반복.cpp" />
+    <ClCompile Include="2697_다음수구하기.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2740_행렬곱셈.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />

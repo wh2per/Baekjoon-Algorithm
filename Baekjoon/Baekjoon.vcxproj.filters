@@ -758,5 +758,17 @@
     <ClCompile Include="11049_행렬곱셈순서.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2228_구간나누기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12865_평범한배낭.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2697_다음수구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15894_수학은체육과목입니다.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
