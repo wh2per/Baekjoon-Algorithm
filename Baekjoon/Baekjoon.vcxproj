@@ -263,6 +263,7 @@
     <ClCompile Include="5427_불.cpp" />
     <ClCompile Include="5430_AC.cpp" />
     <ClCompile Include="5622_다이얼.cpp" />
+    <ClCompile Include="6549_히스토그램에서가장큰직사각형.cpp" />
     <ClCompile Include="6588_골드바흐의추측.cpp" />
     <ClCompile Include="6603_로또.cpp" />
     <ClCompile Include="7568_덩치.cpp" />
