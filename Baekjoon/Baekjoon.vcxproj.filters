@@ -785,5 +785,8 @@
     <ClCompile Include="1914_하노이탑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2357_최솟값과최댓값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

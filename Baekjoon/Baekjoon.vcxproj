@@ -204,6 +204,7 @@
     <ClCompile Include="2294_동전2.cpp" />
     <ClCompile Include="2309_일곱난쟁이.cpp" />
     <ClCompile Include="2312_수복원하기.cpp" />
+    <ClCompile Include="2357_최솟값과최댓값.cpp" />
     <ClCompile Include="2439_별찍기-2.cpp" />
     <ClCompile Include="2440_별찍기-3.cpp" />
     <ClCompile Include="2441_별찍기-4.cpp" />
