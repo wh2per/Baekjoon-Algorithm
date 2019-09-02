@@ -176,6 +176,7 @@
     <ClCompile Include="1874_스택수열.cpp" />
     <ClCompile Include="1890_점프.cpp" />
     <ClCompile Include="1904_01타일.cpp" />
+    <ClCompile Include="1914_하노이탑.cpp" />
     <ClCompile Include="1924_2007년.cpp" />
     <ClCompile Include="1929_소수만들기.cpp" />
     <ClCompile Include="1932_정수삼각형.cpp" />
