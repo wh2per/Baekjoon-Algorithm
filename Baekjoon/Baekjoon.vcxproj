@@ -181,6 +181,7 @@
     <ClCompile Include="1932_정수삼각형.cpp" />
     <ClCompile Include="1937_욕심쟁이판다.cpp" />
     <ClCompile Include="1938_통나무옮기기.cpp" />
+    <ClCompile Include="1963_소수경로.cpp" />
     <ClCompile Include="1965_상자넣기.cpp" />
     <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
