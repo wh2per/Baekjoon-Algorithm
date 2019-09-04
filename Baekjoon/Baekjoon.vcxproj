@@ -185,6 +185,7 @@
     <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
     <ClCompile Include="1987_알파벳.cpp" />
+    <ClCompile Include="2042_구간합구하기.cpp" />
     <ClCompile Include="2108_통계학.cpp" />
     <ClCompile Include="2133_타일채우기.cpp" />
     <ClCompile Include="2156_포도주시식.cpp" />
