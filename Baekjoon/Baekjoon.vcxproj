@@ -40,7 +40,6 @@
     <None Include="1697_숨바꼭질.java" />
     <None Include="1748_수이어쓰기1.java" />
     <None Include="1912_연속합.cpp" />
-    <None Include="2108_통계학.java" />
     <None Include="2438_별찍기-1.cpp" />
     <None Include="6064_카잉달력.java" />
     <None Include="7287_등록.java" />
@@ -185,6 +184,7 @@
     <ClCompile Include="1966_프린터큐.cpp" />
     <ClCompile Include="1979_소수찾기.cpp" />
     <ClCompile Include="1987_알파벳.cpp" />
+    <ClCompile Include="2108_통계학.cpp" />
     <ClCompile Include="2133_타일채우기.cpp" />
     <ClCompile Include="2156_포도주시식.cpp" />
     <ClCompile Include="2164_카드2.cpp" />
@@ -344,6 +344,9 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>

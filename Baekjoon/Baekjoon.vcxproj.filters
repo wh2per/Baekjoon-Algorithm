@@ -33,9 +33,6 @@
     <None Include="1748_수이어쓰기1.java">
       <Filter>소스 파일</Filter>
     </None>
-    <None Include="2108_통계학.java">
-      <Filter>소스 파일</Filter>
-    </None>
     <None Include="6064_카잉달력.java">
       <Filter>소스 파일</Filter>
     </None>
@@ -771,6 +768,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="17362_수학은체육과목입니다2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2108_통계학.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
