@@ -773,5 +773,8 @@
     <ClCompile Include="2108_통계학.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11401_이항계수3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
