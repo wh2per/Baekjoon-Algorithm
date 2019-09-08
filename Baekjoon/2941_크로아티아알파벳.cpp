@@ -1,25 +1,28 @@
 ﻿#include <iostream>
 #include <string>
-#include <vector>
-#include <algorithm>	
 using namespace std;
 
 int bj_2941() {
-	vector<string> v = { "c=","c-","dz=","d-","lj","nj","s=","z="};
 	string s;
 	cin >> s;
-	int size = s.length();
+	s += "##";
+	int ans=0;
 
-	for (int i = 0; i < size; i++) {
-		for (string c : v) {
-			if (s.find(c) != string::npos) {
-				int index = 0;
-				index = s.find(c);
-				s.erase(index, c.length());
-				s.insert(index, "#");
-			}
+	for (int i = 0; i < s.length()-2; ++i) {
+		if (s[i] == 'c' && (s[i + 1] == '=' || s[i + 1] == '-'))
+			i++;
+		else if (s[i] == 'd') {
+			if (s[i + 1] == '-')
+				i++;
+			else if (s[i + 1] == 'z' && s[i + 2] == '=')
+				i += 2;
 		}
+		else if ((s[i] == 'l' || s[i] == 'n') && s[i + 1] == 'j')
+			i++;
+		else if ((s[i] == 's' || s[i] == 'z') && s[i + 1] == '=')
+			i++;
+		ans++;
 	}
-	cout << s.length();
+	cout << ans;
 	return 0;
 }
