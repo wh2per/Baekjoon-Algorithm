@@ -791,5 +791,8 @@
     <ClCompile Include="6549_히스토그램에서가장큰직사각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3020_개똥벌레.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
