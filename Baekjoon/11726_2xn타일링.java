@@ -1,4 +1,3 @@
-/*
 import java.util.*;
 public class Main {
 	static int[] d;
@@ -23,4 +22,3 @@ public class Main {
 		System.out.println(go(n));
 	}
 }
-*/

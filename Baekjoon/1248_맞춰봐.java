@@ -1,4 +1,3 @@
-/*
 import java.util.*;
 public class Main {
     static int n;
@@ -59,4 +58,3 @@ public class Main {
         System.out.println();
     }
 }
-*/

@@ -1,4 +1,3 @@
-/*
 import java.util.*;
 public class Main {
     public static int go(int[] a, int m, int i, int sum) {
@@ -26,4 +25,3 @@ public class Main {
         System.out.println(ans);
     }
 }
-*/

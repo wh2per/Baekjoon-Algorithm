@@ -1,4 +1,3 @@
-/*
 import java.util.*;
 public class Main {
 	public static boolean next_permutation(int[] a) {
@@ -67,4 +66,3 @@ public class Main {
         System.out.println(ans);
     }
 }
-*/
