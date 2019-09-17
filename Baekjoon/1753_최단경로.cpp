@@ -54,7 +54,7 @@ int main() {
 			if (dist[i] == INT_MAX)
 				cout << "INF" << "\n";
 			else
-				cout << dist[i] << "\n"
+				cout << dist[i] << "\n";
 		}
 	}
 
