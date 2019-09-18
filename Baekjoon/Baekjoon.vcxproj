@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Downloads\SWCERT7\2458_키순서.cpp" />
+    <ClCompile Include="..\..\..\..\..\Downloads\SWCERT7\3830_교수님은기다리지않는다.cpp" />
     <ClCompile Include="1000_A+B.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
