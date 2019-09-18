@@ -852,17 +852,17 @@
     <ClCompile Include="11438_LCA2.cpp">
       <Filter>소스 파일\10000 ~</Filter>
     </ClCompile>
-    <ClCompile Include="3176_도로네트워크.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="3830_교수님은기다리지않는다.cpp">
+      <Filter>소스 파일\1000 ~ 9999</Filter>
+    </ClCompile>
+    <ClCompile Include="2458_키순서.cpp">
+      <Filter>소스 파일\1000 ~ 9999</Filter>
     </ClCompile>
     <ClCompile Include="1516_게임개발.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1000 ~ 9999</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\SWCERT7\2458_키순서.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\SWCERT7\3830_교수님은기다리지않는다.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="3176_도로네트워크.cpp">
+      <Filter>소스 파일\1000 ~ 9999</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
