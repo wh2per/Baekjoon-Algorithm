@@ -47,15 +47,15 @@ int main() {
 		cin >> u >> v;
 		if (depth[u] < depth[v])
 			swap(u, v);
-		int diff = depth[u] - depth[v];
+		int diff = depth[u] - depth[v];		// 깊이 차이
 		for (int j = 0; diff; j++) {
-			if (diff % 2)
-				u = parent[u][j];
+			if (diff % 2)					// 홀수면 바로 부모를 불러오기
+				u = parent[u][j];			// 짝수면 나누기를 통해 접근
 			diff /= 2;
 		}
-		if (u != v) {
+		if (u != v) {		// 부모가 같지 않으면
 			for (int j = 19; j >= 0; --j) {
-				if (parent[u][j] != parent[v][j]) {
+				if (parent[u][j] != 0 && parent[u][j] != parent[v][j]) {
 					u = parent[u][j];
 					v = parent[v][j];
 				}
