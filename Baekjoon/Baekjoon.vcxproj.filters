@@ -876,6 +876,9 @@
     <ClCompile Include="2887_행성터널.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\SWCERT8 (2)\4386_별자리만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
