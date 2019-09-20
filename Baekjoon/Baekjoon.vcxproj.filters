@@ -882,10 +882,13 @@
     <ClCompile Include="4386_별자리만들기.cpp">
       <Filter>소스 파일\1000 ~ 9999</Filter>
     </ClCompile>
-    <ClCompile Include="11657_타임머신.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="9372_상근이의여행.cpp">
+      <Filter>소스 파일\1000 ~ 9999</Filter>
+    </ClCompile>
+    <ClCompile Include="11657_타임머신.cpp">
+      <Filter>소스 파일\10000 ~</Filter>
+    </ClCompile>
+    <ClCompile Include="3860_할로윈묘지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
