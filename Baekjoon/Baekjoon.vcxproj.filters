@@ -889,12 +889,15 @@
       <Filter>소스 파일\10000 ~</Filter>
     </ClCompile>
     <ClCompile Include="3860_할로윈묘지.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1000 ~ 9999</Filter>
     </ClCompile>
     <ClCompile Include="9370_미확인도착지.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1000 ~ 9999</Filter>
     </ClCompile>
     <ClCompile Include="11404_플로이드.cpp">
+      <Filter>소스 파일\10000 ~</Filter>
+    </ClCompile>
+    <ClCompile Include="1602_도망자원숭이.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
