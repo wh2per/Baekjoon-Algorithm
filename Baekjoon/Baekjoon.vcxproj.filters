@@ -936,6 +936,9 @@
     <ClCompile Include="10775_공항.cpp">
       <Filter>소스 파일\그래프\Union-Find</Filter>
     </ClCompile>
+    <ClCompile Include="4195_친구네트워크.cpp">
+      <Filter>소스 파일\그래프\Union-Find</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
