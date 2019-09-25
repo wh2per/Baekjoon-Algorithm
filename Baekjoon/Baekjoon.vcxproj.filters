@@ -957,6 +957,9 @@
     <ClCompile Include="3584_가장가까운공통조상.cpp">
       <Filter>소스 파일\그래프\LCA</Filter>
     </ClCompile>
+    <ClCompile Include="13511_트리와쿼리2.cpp">
+      <Filter>소스 파일\그래프\LCA</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
