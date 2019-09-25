@@ -951,6 +951,9 @@
     <ClCompile Include="3665_최종순위.cpp">
       <Filter>소스 파일\그래프\위상정렬</Filter>
     </ClCompile>
+    <ClCompile Include="13344_국제체스대회.cpp">
+      <Filter>소스 파일\그래프\위상정렬</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
