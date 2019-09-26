@@ -963,6 +963,15 @@
     <ClCompile Include="17435_합성함수와쿼리.cpp">
       <Filter>소스 파일\그래프\LCA</Filter>
     </ClCompile>
+    <ClCompile Include="5719_거의최단경로.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
+    <ClCompile Include="11400_단절선.cpp">
+      <Filter>소스 파일\그래프\단절점-단절선</Filter>
+    </ClCompile>
+    <ClCompile Include="1854_K번째최단경로찾기.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
@@ -1028,5 +1037,13 @@
     <None Include="11726_2xn타일링.java">
       <Filter>소스 파일\10000 ~</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+    <Text Include="input2.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>
