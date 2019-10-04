@@ -1059,6 +1059,15 @@
     <ClCompile Include="2406_안정적인네트워크.cpp">
       <Filter>소스 파일\그래프\MST</Filter>
     </ClCompile>
+    <ClCompile Include="1626_두번째로작은스패닝트리.cpp">
+      <Filter>소스 파일\그래프\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="10423_전기가부족해.cpp">
+      <Filter>소스 파일\그래프\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="1396_크루스칼의공.cpp">
+      <Filter>소스 파일\그래프\MST</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
