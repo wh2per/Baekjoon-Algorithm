@@ -1047,6 +1047,12 @@
     <ClCompile Include="13418_학교탐방하기.cpp">
       <Filter>소스 파일\그래프\MST</Filter>
     </ClCompile>
+    <ClCompile Include="2211_네트워크복구.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
+    <ClCompile Include="1647_도시분할계획.cpp">
+      <Filter>소스 파일\그래프\MST</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">

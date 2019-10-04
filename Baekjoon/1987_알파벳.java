@@ -1,4 +1,3 @@
-/*
 import java.util.*;
 
 public class Main {
@@ -37,4 +36,3 @@ public class Main {
 		System.out.println(go(board, check, 0, 0));
 	}
 }
-*/
