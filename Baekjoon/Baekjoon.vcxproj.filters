@@ -1059,14 +1059,11 @@
     <ClCompile Include="2406_안정적인네트워크.cpp">
       <Filter>소스 파일\그래프\MST</Filter>
     </ClCompile>
-    <ClCompile Include="1626_두번째로작은스패닝트리.cpp">
-      <Filter>소스 파일\그래프\MST</Filter>
-    </ClCompile>
     <ClCompile Include="10423_전기가부족해.cpp">
       <Filter>소스 파일\그래프\MST</Filter>
     </ClCompile>
-    <ClCompile Include="1396_크루스칼의공.cpp">
-      <Filter>소스 파일\그래프\MST</Filter>
+    <ClCompile Include="17487_타자연습.cpp">
+      <Filter>소스 파일\문자열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
