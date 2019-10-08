@@ -1080,6 +1080,9 @@
     <ClCompile Include="15802_타노스.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="15480_LCA와쿼리.cpp">
+      <Filter>소스 파일\그래프\LCA</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
