@@ -112,6 +112,9 @@
     <Filter Include="소스 파일\DP\LIS">
       <UniqueIdentifier>{2a43fe78-976b-410b-86af-cca281743455}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문자열\팰린드롬">
+      <UniqueIdentifier>{6e960f9e-c332-4eea-acae-7e79daffe80e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -864,9 +867,6 @@
     <ClCompile Include="10942_팰린드롬.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="10988_팰린드롬인지확인하기.cpp">
-      <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
     <ClCompile Include="11004_K번째수.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
@@ -1082,6 +1082,12 @@
     </ClCompile>
     <ClCompile Include="15480_LCA와쿼리.cpp">
       <Filter>소스 파일\그래프\LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="10988_팰린드롬인지확인하기.cpp">
+      <Filter>소스 파일\문자열\팰린드롬</Filter>
+    </ClCompile>
+    <ClCompile Include="10174_팰린드롬.cpp">
+      <Filter>소스 파일\문자열\팰린드롬</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
