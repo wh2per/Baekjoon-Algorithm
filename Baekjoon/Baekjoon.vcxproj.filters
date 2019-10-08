@@ -1092,6 +1092,9 @@
     <ClCompile Include="14444_가장긴팰린드롬부분문자열.cpp">
       <Filter>소스 파일\문자열\팰린드롬</Filter>
     </ClCompile>
+    <ClCompile Include="13275_가장긴팰린드롬부분문자열.cpp">
+      <Filter>소스 파일\문자열\팰린드롬</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
