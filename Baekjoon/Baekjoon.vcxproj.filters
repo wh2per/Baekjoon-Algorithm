@@ -1110,6 +1110,9 @@
     <ClCompile Include="1991_트리순회.cpp">
       <Filter>소스 파일\트리\기본</Filter>
     </ClCompile>
+    <ClCompile Include="1967_트리의지름.cpp">
+      <Filter>소스 파일\트리\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
