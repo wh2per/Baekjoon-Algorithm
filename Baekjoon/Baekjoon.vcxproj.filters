@@ -1116,6 +1116,12 @@
     <ClCompile Include="1916_최소비용구하기.cpp">
       <Filter>소스 파일\그래프\최단경로</Filter>
     </ClCompile>
+    <ClCompile Include="4485_녹색옷입은애가젤다지.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
+    <ClCompile Include="10835_카드게임.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
