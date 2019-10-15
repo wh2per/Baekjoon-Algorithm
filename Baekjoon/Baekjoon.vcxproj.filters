@@ -1125,6 +1125,9 @@
     <ClCompile Include="6593_상범빌딩.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="6118_숨바꼭질.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
