@@ -1122,6 +1122,9 @@
     <ClCompile Include="10835_카드게임.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="6593_상범빌딩.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
