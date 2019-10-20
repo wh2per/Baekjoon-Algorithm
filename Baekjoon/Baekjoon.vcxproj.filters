@@ -1143,6 +1143,12 @@
     <ClCompile Include="4963_섬의개수.cpp">
       <Filter>소스 파일\그래프\그래프이론</Filter>
     </ClCompile>
+    <ClCompile Include="1507_궁금한민호.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
