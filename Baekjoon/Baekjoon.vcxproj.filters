@@ -1158,6 +1158,9 @@
     <ClCompile Include="2917_늑대사냥꾼.cpp">
       <Filter>소스 파일\그래프\최단경로</Filter>
     </ClCompile>
+    <ClCompile Include="11779_최소비용구하기2.cpp">
+      <Filter>소스 파일\그래프\최단경로</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
