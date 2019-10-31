@@ -1185,6 +1185,9 @@
     <ClCompile Include="3933_랑그랑주의네제곱수정리.cpp">
       <Filter>소스 파일\수학\조합</Filter>
     </ClCompile>
+    <ClCompile Include="5569_출근경로.cpp">
+      <Filter>소스 파일\수학\조합</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">

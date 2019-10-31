@@ -997,6 +997,7 @@
     <ClCompile Include="5568_카드놓기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="5569_출근경로.cpp" />
     <ClCompile Include="5622_다이얼.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
