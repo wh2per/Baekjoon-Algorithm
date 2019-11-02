@@ -1197,6 +1197,9 @@
     <ClCompile Include="16483_접시안의원.cpp">
       <Filter>소스 파일\수학\조합</Filter>
     </ClCompile>
+    <ClCompile Include="3046_R2.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
