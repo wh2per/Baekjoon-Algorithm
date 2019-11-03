@@ -1200,6 +1200,9 @@
     <ClCompile Include="3046_R2.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="2475_검증수.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
