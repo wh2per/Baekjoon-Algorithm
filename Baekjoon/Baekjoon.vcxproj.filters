@@ -1212,6 +1212,9 @@
     <ClCompile Include="11942_고려대는사랑입니다.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="10699_오늘날짜.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
