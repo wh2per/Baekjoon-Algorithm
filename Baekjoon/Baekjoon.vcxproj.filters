@@ -894,9 +894,6 @@
     <ClCompile Include="11653_소인수분해.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="11654_아스키코드.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
     <ClCompile Include="11660_구간합구하기5.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -1228,6 +1225,12 @@
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
     <ClCompile Include="5339_콜센터.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="11654_아스키코드.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="9654_나부함대데이터.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
   </ItemGroup>
