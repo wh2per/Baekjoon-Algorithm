@@ -1221,6 +1221,9 @@
     <ClCompile Include="5337_웰컴.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="2914_저작권.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
