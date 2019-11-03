@@ -127,6 +127,9 @@
     <Filter Include="소스 파일\수학\조합">
       <UniqueIdentifier>{44fec9ae-8a68-487f-97c7-fe0d4a37cd54}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기본\출력">
+      <UniqueIdentifier>{2266706a-dfba-4cb6-af24-c6473aab7f93}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -462,24 +465,6 @@
     <ClCompile Include="1927_최소힙.cpp">
       <Filter>소스 파일\자료구조\큐</Filter>
     </ClCompile>
-    <ClCompile Include="2438_별찍기-1.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="2439_별찍기-2.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="2440_별찍기-3.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="2441_별찍기-4.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="2447_별찍기-10.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="2448_별찍기-11.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
     <ClCompile Include="2206_벽부수고이동하기.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
@@ -600,9 +585,6 @@
     <ClCompile Include="2503_숫자야구.cpp">
       <Filter>소스 파일\브루트포스</Filter>
     </ClCompile>
-    <ClCompile Include="2557_HelloWorld.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
     <ClCompile Include="2558_A-B-2.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -647,12 +629,6 @@
     </ClCompile>
     <ClCompile Include="2740_행렬곱셈.cpp">
       <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
-    <ClCompile Include="2741_N찍기.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="2742_기찍N.cpp">
-      <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="2745_진법변환.cpp">
       <Filter>소스 파일\수학\구현</Filter>
@@ -795,9 +771,6 @@
     <ClCompile Include="9498_시험성적.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="10171_고양이.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
     <ClCompile Include="10951_A+B-4.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -909,9 +882,6 @@
     <ClCompile Include="11727_2xn타일링2.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="11719_그대로출력하기2.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
     <ClCompile Include="13913_숨바꼭질4.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
@@ -931,9 +901,6 @@
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="11720_숫자의합.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
-    <ClCompile Include="11721_열개씩끊어출력하기.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="11053_가장긴증가하는부분수열.cpp">
@@ -1014,9 +981,6 @@
     <ClCompile Include="15552_빠른A+B.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="17295_엔드게임스포일러.cpp">
-      <Filter>소스 파일\기본</Filter>
-    </ClCompile>
     <ClCompile Include="15596_정수N개의합.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -1073,9 +1037,6 @@
     </ClCompile>
     <ClCompile Include="11437_LCA.cpp">
       <Filter>소스 파일\그래프\LCA</Filter>
-    </ClCompile>
-    <ClCompile Include="15802_타노스.cpp">
-      <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="15480_LCA와쿼리.cpp">
       <Filter>소스 파일\그래프\LCA</Filter>
@@ -1203,8 +1164,53 @@
     <ClCompile Include="2475_검증수.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="2438_별찍기-1.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2439_별찍기-2.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2440_별찍기-3.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2441_별찍기-4.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2447_별찍기-10.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2448_별찍기-11.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2557_HelloWorld.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
     <ClCompile Include="5338_마이크로소프트로고.cpp">
-      <Filter>소스 파일\기본</Filter>
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="10171_고양이.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="11719_그대로출력하기2.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="17295_엔드게임스포일러.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="11721_열개씩끊어출력하기.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2741_N찍기.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2742_기찍N.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="15802_타노스.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="11942_고려대는사랑입니다.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -1232,20 +1238,11 @@
     <None Include="6064_카잉달력.java">
       <Filter>소스 파일\수학\구현</Filter>
     </None>
-    <None Include="7287_등록.java">
-      <Filter>소스 파일\기본</Filter>
-    </None>
     <None Include="8393_합.java">
       <Filter>소스 파일\기본</Filter>
     </None>
     <None Include="9663_N-Queen.java">
       <Filter>소스 파일\DFS</Filter>
-    </None>
-    <None Include="10172_개.java">
-      <Filter>소스 파일\기본</Filter>
-    </None>
-    <None Include="10718_Welovekriii.java">
-      <Filter>소스 파일\기본</Filter>
     </None>
     <None Include="10819_차이를최대로.java">
       <Filter>소스 파일\수학\구현</Filter>
@@ -1265,11 +1262,20 @@
     <None Include="11726_2xn타일링.java">
       <Filter>소스 파일\DP</Filter>
     </None>
-    <None Include="11718_그대로출력하기.java">
-      <Filter>소스 파일\기본</Filter>
-    </None>
     <None Include="11723_집합.java">
       <Filter>소스 파일\문자열</Filter>
+    </None>
+    <None Include="10172_개.java">
+      <Filter>소스 파일\기본\출력</Filter>
+    </None>
+    <None Include="11718_그대로출력하기.java">
+      <Filter>소스 파일\기본\출력</Filter>
+    </None>
+    <None Include="7287_등록.java">
+      <Filter>소스 파일\기본\출력</Filter>
+    </None>
+    <None Include="10718_Welovekriii.java">
+      <Filter>소스 파일\기본\출력</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
