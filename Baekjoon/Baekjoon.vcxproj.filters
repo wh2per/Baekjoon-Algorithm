@@ -1242,6 +1242,69 @@
     <ClCompile Include="10926_물음표물음표느낌표.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="2845_파티가끝나고난뒤.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="5554_심부름가는길.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="14645_와이버스부릉부릉.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="3003_킹,퀸,룩,비숍,나이트,폰.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="5522_카드게임.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="14918_더하기.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="16394_홍익대학교.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="15733_나는누구인가.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="15964_이상한기호.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="16430_제리와톰.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="15641_SUPERSUPER.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="11382_꼬마정민.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="15740_A+B-9.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15727_조별과제를하려는데조장이사라졌다.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="17256_달달함이넘쳐흘러.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="15439_VeraandOutfits.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="10949_숫자야구.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="15890_전국대학생프로그래밍대회동아리연합여름대회2018.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="16170_오늘의날짜는.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="14652_나는행복합니다.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2338_긴자리계산.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
@@ -1306,6 +1369,9 @@
     </None>
     <None Include="10718_Welovekriii.java">
       <Filter>소스 파일\기본\출력</Filter>
+    </None>
+    <None Include="13277_큰수곱셈.py">
+      <Filter>소스 파일\기본</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
