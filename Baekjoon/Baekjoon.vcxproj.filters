@@ -1373,6 +1373,12 @@
     <None Include="13277_큰수곱셈.py">
       <Filter>소스 파일\기본</Filter>
     </None>
+    <None Include="1271_엄청난부자.py">
+      <Filter>소스 파일\기본</Filter>
+    </None>
+    <None Include="11283_한글2.py">
+      <Filter>소스 파일\기본\출력</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
