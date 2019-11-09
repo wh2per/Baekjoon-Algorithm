@@ -1305,6 +1305,9 @@
     <ClCompile Include="2338_긴자리계산.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="2098_외판원순회.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
