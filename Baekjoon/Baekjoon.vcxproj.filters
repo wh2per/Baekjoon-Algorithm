@@ -130,6 +130,9 @@
     <Filter Include="소스 파일\DP\피보나치수">
       <UniqueIdentifier>{ed7c7fc7-202d-4cc8-b6e2-428f42169c35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DP\비트마스크">
+      <UniqueIdentifier>{99f8b398-0842-4434-a9b8-fb0654f5b132}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -530,9 +533,6 @@
     </ClCompile>
     <ClCompile Include="2042_구간합구하기.cpp">
       <Filter>소스 파일\인덱스트리</Filter>
-    </ClCompile>
-    <ClCompile Include="2133_타일채우기.cpp">
-      <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="2075_N번째큰수.cpp">
       <Filter>소스 파일\수학\구현</Filter>
@@ -1305,11 +1305,17 @@
     <ClCompile Include="2338_긴자리계산.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
-    <ClCompile Include="2098_외판원순회.cpp">
-      <Filter>소스 파일\DP</Filter>
-    </ClCompile>
     <ClCompile Include="2718_타일채우기.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2098_외판원순회.cpp">
+      <Filter>소스 파일\DP\비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="2133_타일채우기.cpp">
+      <Filter>소스 파일\DP\비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="3980_선발명단.cpp">
+      <Filter>소스 파일\DP\비트마스크</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
