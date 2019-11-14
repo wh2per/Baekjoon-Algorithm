@@ -1320,6 +1320,12 @@
     <ClCompile Include="1102_발전소.cpp">
       <Filter>소스 파일\DP\비트마스크</Filter>
     </ClCompile>
+    <ClCompile Include="10039_평균점수.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="10797_10부제.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
