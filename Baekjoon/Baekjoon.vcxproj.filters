@@ -133,6 +133,9 @@
     <Filter Include="소스 파일\DP\비트마스크">
       <UniqueIdentifier>{99f8b398-0842-4434-a9b8-fb0654f5b132}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학\순열">
+      <UniqueIdentifier>{000dc9a4-d402-4d62-af07-5f4ffa285dda}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -780,15 +783,6 @@
     <ClCompile Include="10950_A+B-3.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="10972_다음순열.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
-    <ClCompile Include="10973_이전순열.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
-    <ClCompile Include="10974_모든순열.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
     <ClCompile Include="11022_A+B-8.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -1337,6 +1331,18 @@
     </ClCompile>
     <ClCompile Include="1010_다리놓기.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="10972_다음순열.cpp">
+      <Filter>소스 파일\수학\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10973_이전순열.cpp">
+      <Filter>소스 파일\수학\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10974_모든순열.cpp">
+      <Filter>소스 파일\수학\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_N과M(1).cpp">
+      <Filter>소스 파일\수학\순열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
