@@ -349,6 +349,7 @@
     <ClCompile Include="12100_2048(Easy).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1212_8진수2진수.cpp" />
     <ClCompile Include="1261_알고스팟.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
