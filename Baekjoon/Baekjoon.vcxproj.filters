@@ -1389,6 +1389,9 @@
     <ClCompile Include="10162_전자레인지.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="2420_사파리월드.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
