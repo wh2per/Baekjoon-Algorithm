@@ -1398,6 +1398,9 @@
     <ClCompile Include="11948_과목선택.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="10768_특별한날.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
