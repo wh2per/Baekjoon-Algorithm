@@ -1410,6 +1410,9 @@
     <ClCompile Include="14924_폰노이만과파리.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
+    <ClCompile Include="3004_체스판조각.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
