@@ -88,9 +88,6 @@
     <Filter Include="소스 파일\그리디">
       <UniqueIdentifier>{347e9a9d-eab9-4b1b-bf70-1645210b402d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\수학\기하">
-      <UniqueIdentifier>{98464334-e5d0-4140-80e6-75e63dad0951}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\수학\구현">
       <UniqueIdentifier>{8e52be64-612a-4c14-957c-c5eaf1b234b2}</UniqueIdentifier>
     </Filter>
@@ -135,6 +132,9 @@
     </Filter>
     <Filter Include="소스 파일\수학\순열">
       <UniqueIdentifier>{000dc9a4-d402-4d62-af07-5f4ffa285dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\수학\기하">
+      <UniqueIdentifier>{98464334-e5d0-4140-80e6-75e63dad0951}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1415,6 +1415,9 @@
     </ClCompile>
     <ClCompile Include="15873_공백없는A+B.cpp">
       <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="4299_AFC윔블턴.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
