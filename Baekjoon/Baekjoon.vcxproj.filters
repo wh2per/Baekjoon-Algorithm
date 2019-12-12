@@ -1419,6 +1419,9 @@
     <ClCompile Include="4299_AFC윔블턴.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
+    <ClCompile Include="16431_베시와데이지.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
