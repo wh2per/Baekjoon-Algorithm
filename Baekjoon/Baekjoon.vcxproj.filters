@@ -1440,6 +1440,12 @@
     <ClCompile Include="17009_WinningScore.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="13866_팀나누기.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="14470_전자레인지.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
