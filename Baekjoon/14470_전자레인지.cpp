@@ -13,13 +13,13 @@ int main() {
 	freopen("input.txt", "r", stdin);
 
 	int a, b, c, d, e;
-	cin >> b >> c >> d >> e;
+	cin >> a >>b >> c >> d >> e;
 
 	if (a < 0) 
 		cout << -1 * a * c + d + e * b;
 	else if (a > 0)
 		cout << e * (b - a);
-	else\
+	else
 		cout << d + e * b;
 	return 0;
 }
