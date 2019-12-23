@@ -106,9 +106,6 @@
     <Filter Include="소스 파일\DFS">
       <UniqueIdentifier>{f2728ed0-6ade-4b7c-91f5-b9d27daa987c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\MCMF">
-      <UniqueIdentifier>{c137c490-123f-4aa1-a4f9-fc9aef0236af}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\그래프\그래프이론">
       <UniqueIdentifier>{25e64372-d0f6-4489-b29d-15b17990f858}</UniqueIdentifier>
     </Filter>
@@ -135,6 +132,9 @@
     </Filter>
     <Filter Include="소스 파일\수학\기하">
       <UniqueIdentifier>{98464334-e5d0-4140-80e6-75e63dad0951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MCMF">
+      <UniqueIdentifier>{c137c490-123f-4aa1-a4f9-fc9aef0236af}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1446,9 +1446,6 @@
     <ClCompile Include="14470_전자레인지.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="14623_감정이입.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
     <ClCompile Include="15921_수찬은마린보이야.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
@@ -1459,6 +1456,48 @@
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="16199_나이계산하기.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="15700_타일채우기4.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="13985_Equality.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="14264_정육각형과삼각형.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="14623_감정이입.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2442_별찍기-5.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2490_윷놀이.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2444_별찍기-7.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2163_초콜릿자르기.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2445_별찍기-8.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2446_별찍기-9.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="1009_분산처리.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2522_별찍기-12.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="5565_영수증.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="2953_나는요리사다.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
   </ItemGroup>
@@ -1533,6 +1572,9 @@
       <Filter>소스 파일\기본</Filter>
     </None>
     <None Include="11283_한글2.py">
+      <Filter>소스 파일\기본\출력</Filter>
+    </None>
+    <None Include="11282_한글.py">
       <Filter>소스 파일\기본\출력</Filter>
     </None>
   </ItemGroup>
