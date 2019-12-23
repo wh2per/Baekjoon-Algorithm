@@ -1500,6 +1500,30 @@
     <ClCompile Include="2953_나는요리사다.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="2010_플러그.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="10886_0notcute1cute.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="10991_별찍기-16.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="10992_별찍기-17.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="10824_네수.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="2523_별찍기-13.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2875_대회or인턴.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1547_공.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
