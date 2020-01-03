@@ -1560,6 +1560,9 @@
     <ClCompile Include="2476_주사위게임.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="3034_앵그리창영.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
