@@ -1578,6 +1578,9 @@
     <ClCompile Include="10984_내학점을구해줘.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="12790_MiniFantasyWar.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
