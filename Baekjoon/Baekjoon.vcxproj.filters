@@ -1661,6 +1661,9 @@
     <None Include="11282_한글.py">
       <Filter>소스 파일\기본\출력</Filter>
     </None>
+    <None Include="2935_소음.py">
+      <Filter>소스 파일\기본</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
