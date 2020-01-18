@@ -1602,6 +1602,9 @@
     <ClCompile Include="5717_상근이의친구들.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="2921_도미노.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
