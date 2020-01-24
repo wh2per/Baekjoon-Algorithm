@@ -136,6 +136,9 @@
     <Filter Include="소스 파일\MCMF">
       <UniqueIdentifier>{c137c490-123f-4aa1-a4f9-fc9aef0236af}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DP\LCS">
+      <UniqueIdentifier>{0595d8f0-731f-403c-8332-71931f87a7f1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -364,9 +367,6 @@
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="2565_전깃줄.cpp">
-      <Filter>소스 파일\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9251_LCS.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="1912_연속합.cpp">
@@ -1621,6 +1621,12 @@
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="5354_J박스.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="9251_LCS.cpp">
+      <Filter>소스 파일\DP\LCS</Filter>
+    </ClCompile>
+    <ClCompile Include="11655_ROT13.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
   </ItemGroup>
