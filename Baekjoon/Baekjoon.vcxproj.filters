@@ -1647,6 +1647,9 @@
     <ClCompile Include="9295_주사위.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="2783_삼각김밥.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
