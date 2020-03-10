@@ -408,9 +408,6 @@
     <ClCompile Include="1158_조세퍼스문제.cpp">
       <Filter>소스 파일\자료구조\링크드리스트</Filter>
     </ClCompile>
-    <ClCompile Include="1194_달이차오른다,가자.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="1300_K번째수.cpp">
       <Filter>소스 파일\이분탐색</Filter>
     </ClCompile>
@@ -429,26 +426,17 @@
     <ClCompile Include="1495_기타리스트.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="1525_퍼즐.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="1541_잃어버린괄호.cpp">
       <Filter>소스 파일\그리디</Filter>
     </ClCompile>
     <ClCompile Include="1546_평균.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="1600_말이되고픈원숭이.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="1655_가운데를말해요.cpp">
       <Filter>소스 파일\자료구조\큐</Filter>
     </ClCompile>
     <ClCompile Include="1699_제곱수의합.cpp">
       <Filter>소스 파일\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1726_로봇.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="1759_암호만들기.cpp">
       <Filter>소스 파일\브루트포스</Filter>
@@ -471,9 +459,6 @@
     <ClCompile Include="1927_최소힙.cpp">
       <Filter>소스 파일\자료구조\큐</Filter>
     </ClCompile>
-    <ClCompile Include="2206_벽부수고이동하기.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="1966_프린터큐.cpp">
       <Filter>소스 파일\자료구조\큐</Filter>
     </ClCompile>
@@ -482,12 +467,6 @@
     </ClCompile>
     <ClCompile Include="1937_욕심쟁이판다.cpp">
       <Filter>소스 파일\DFS</Filter>
-    </ClCompile>
-    <ClCompile Include="1938_통나무옮기기.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
-    <ClCompile Include="1963_소수경로.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="1965_상자넣기.cpp">
       <Filter>소스 파일\DP</Filter>
@@ -558,9 +537,6 @@
     <ClCompile Include="2228_구간나누기.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="2251_물통.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="2294_동전2.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
@@ -578,9 +554,6 @@
     </ClCompile>
     <ClCompile Include="2455_지능형기차.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
-    </ClCompile>
-    <ClCompile Include="2468_안전영역.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="2493_탑.cpp">
       <Filter>소스 파일\자료구조\스택</Filter>
@@ -617,9 +590,6 @@
     </ClCompile>
     <ClCompile Include="2529_부등호.cpp">
       <Filter>소스 파일\그리디</Filter>
-    </ClCompile>
-    <ClCompile Include="2638_치즈.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="2675_문자열반복.cpp">
       <Filter>소스 파일\기본</Filter>
@@ -666,9 +636,6 @@
     <ClCompile Include="2920_음계.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="2931_가스관.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="2941_크로아티아알파벳.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
@@ -696,9 +663,6 @@
     <ClCompile Include="3053_택시기하학.cpp">
       <Filter>소스 파일\수학\기하</Filter>
     </ClCompile>
-    <ClCompile Include="3055_탈출.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="3190_뱀.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
     </ClCompile>
@@ -714,12 +678,6 @@
     <ClCompile Include="5086_배수와약수.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="9376_탈옥.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
-    <ClCompile Include="16236_아기상어.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="6588_골드바흐의추측.cpp">
       <Filter>소스 파일\수학\소수</Filter>
     </ClCompile>
@@ -734,9 +692,6 @@
     </ClCompile>
     <ClCompile Include="5052_전화번호목록.cpp">
       <Filter>소스 파일\정렬</Filter>
-    </ClCompile>
-    <ClCompile Include="5427_불.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="5622_다이얼.cpp">
       <Filter>소스 파일\문자열</Filter>
@@ -758,9 +713,6 @@
     </ClCompile>
     <ClCompile Include="9012_괄호.cpp">
       <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="9019_DSLR.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="9095_1,2,3더하기.cpp">
       <Filter>소스 파일\DP</Filter>
@@ -876,15 +828,6 @@
     <ClCompile Include="11727_2xn타일링2.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="13913_숨바꼭질4.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
-    <ClCompile Include="13549_숨바꼭질3.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
-    <ClCompile Include="12851_숨바꼭질2.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="11653_소인수분해.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
@@ -906,9 +849,6 @@
     <ClCompile Include="11722_가장긴감소하는부분수열.cpp">
       <Filter>소스 파일\DP\LIS</Filter>
     </ClCompile>
-    <ClCompile Include="11724_연결요소의개수.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="11729_하노이탑순서.cpp">
       <Filter>소스 파일\자료구조\스택</Filter>
     </ClCompile>
@@ -918,17 +858,11 @@
     <ClCompile Include="13301_타일장식물.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="13335_트럭.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="13398_연속합2.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="13458_시험감독.cpp">
       <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
-    <ClCompile Include="14226_이모티콘.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="14391_종이조각.cpp">
       <Filter>소스 파일\DFS</Filter>
@@ -944,9 +878,6 @@
     </ClCompile>
     <ClCompile Include="14501_퇴사.cpp">
       <Filter>소스 파일\브루트포스</Filter>
-    </ClCompile>
-    <ClCompile Include="14502_연구소.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="14503_로봇청소기.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
@@ -1067,9 +998,6 @@
     </ClCompile>
     <ClCompile Include="10835_카드게임.cpp">
       <Filter>소스 파일\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="6593_상범빌딩.cpp">
-      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="6118_숨바꼭질.cpp">
       <Filter>소스 파일\그래프\최단경로</Filter>
@@ -1674,6 +1602,78 @@
     <ClCompile Include="6378_디지털루트.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
+    <ClCompile Include="1194_달이차오른다,가자.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1525_퍼즐.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1600_말이되고픈원숭이.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1726_로봇.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1938_통나무옮기기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1963_소수경로.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2206_벽부수고이동하기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2251_물통.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2468_안전영역.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2638_치즈.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2931_가스관.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="3055_탈출.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="5427_불.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="6593_상범빌딩.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="9019_DSLR.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="9376_탈옥.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="11724_연결요소의개수.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="12851_숨바꼭질2.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13335_트럭.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13913_숨바꼭질4.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="14226_이모티콘.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="14502_연구소.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="16236_아기상어.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
@@ -1684,9 +1684,6 @@
     </None>
     <None Include="1248_맞춰봐.java">
       <Filter>소스 파일\DFS</Filter>
-    </None>
-    <None Include="1697_숨바꼭질.java">
-      <Filter>소스 파일\BFS</Filter>
     </None>
     <None Include="1748_수이어쓰기1.java">
       <Filter>소스 파일\브루트포스</Filter>
@@ -1753,6 +1750,9 @@
     </None>
     <None Include="2935_소음.py">
       <Filter>소스 파일\기본</Filter>
+    </None>
+    <None Include="1697_숨바꼭질.java">
+      <Filter>소스 파일\BFS</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
