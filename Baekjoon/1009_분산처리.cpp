@@ -18,9 +18,9 @@ int main() {
 	while (t--) {
 		int a, b;
 		cin >> a >> b;
-
+		b = b % 4 + 4;
 		temp = a;
-		for (int j = 0; j < b - 1; j++)
+		for (int j = 0; j<b-1; j++)
 			a = temp * a % 10;
 
 		if (a == 0)
