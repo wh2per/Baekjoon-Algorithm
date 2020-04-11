@@ -5,7 +5,11 @@
 #include <cmath>
 using namespace std;
 
-int bj_2981()
+int gcd(int a, int b) {
+	return a % b ? gcd(b, a % b) : b;
+}
+
+int main()
 {
     int n;
     cin >> n;
@@ -14,30 +18,28 @@ int bj_2981()
     for(int i=0; i<n; ++i)
         cin >> v[i];
 
-    sort(v.begin(), v.end());
+    sort(v.begin(), v.end(),greater<int>());
 
-    int end = v.back() - v.front();
-    vector<int> a;
-    for(int i=2; i<sqrt(end); ++i){
-        if(end%i==0){
-            a.push_back(i);
-            a.push_back(end/i);
-        }
-    }
-    if(sqrt(end)*sqrt(end)==end)
-        a.push_back(sqrt(end));
-    a.push_back(end);
-    sort(a.begin(), a.end());
-    for(int i=0; i<a.size(); ++i){
-        int left = v[0]%a[i];
-        int j;
-        for(j=1; j<n; ++j){
-            if(v[j]%a[i]!=left)
-                break;
-        }
-        if(j==n)
-            cout << a[i] << " ";
-    }
+	int ans = v[0] - v[1];
+
+	for (int i = 2; i < v.size()-1; ++i)		// 모든 수의 최대공약수 구하기
+		ans = gcd(ans, v[i]-v[i+1]);
+
+	vector<int> nums;
+
+	for (int i = 2; i * i <= ans; ++i) {
+		if (ans % i == 0) {
+			nums.push_back(i);
+			if (ans / i != i)
+				nums.push_back(ans / i);
+		}
+	}
+	nums.push_back(ans);
+
+	sort(nums.begin(), nums.end());
+
+	for (auto a : nums)
+		cout << a << " ";
 
     return 0;
 }
