@@ -1677,6 +1677,9 @@
     <ClCompile Include="4388_받아올림.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
+    <ClCompile Include="1259_팰린드롬수.cpp">
+      <Filter>소스 파일\문자열\팰린드롬</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
