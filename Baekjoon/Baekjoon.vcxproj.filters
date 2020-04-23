@@ -1680,6 +1680,9 @@
     <ClCompile Include="1259_팰린드롬수.cpp">
       <Filter>소스 파일\문자열\팰린드롬</Filter>
     </ClCompile>
+    <ClCompile Include="10816_숫자카드2.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
