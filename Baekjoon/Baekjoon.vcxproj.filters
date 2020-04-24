@@ -88,9 +88,6 @@
     <Filter Include="소스 파일\그리디">
       <UniqueIdentifier>{347e9a9d-eab9-4b1b-bf70-1645210b402d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\수학\구현">
-      <UniqueIdentifier>{8e52be64-612a-4c14-957c-c5eaf1b234b2}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\자료구조\맵">
       <UniqueIdentifier>{5732c53d-4910-426b-ae50-b17f71d9d53b}</UniqueIdentifier>
     </Filter>
@@ -138,6 +135,9 @@
     </Filter>
     <Filter Include="소스 파일\DP\LCS">
       <UniqueIdentifier>{0595d8f0-731f-403c-8332-71931f87a7f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\수학\구현">
+      <UniqueIdentifier>{8e52be64-612a-4c14-957c-c5eaf1b234b2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1682,6 +1682,9 @@
     </ClCompile>
     <ClCompile Include="10816_숫자카드2.cpp">
       <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="15829_Hashing.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
