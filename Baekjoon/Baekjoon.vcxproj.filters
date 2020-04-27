@@ -1692,6 +1692,9 @@
     <ClCompile Include="2805_나무자르기.cpp">
       <Filter>소스 파일\이분탐색</Filter>
     </ClCompile>
+    <ClCompile Include="2530_인공지능시계.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
