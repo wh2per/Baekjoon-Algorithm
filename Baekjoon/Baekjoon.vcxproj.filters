@@ -1778,6 +1778,9 @@
     <None Include="1697_숨바꼭질.java">
       <Filter>소스 파일\BFS</Filter>
     </None>
+    <None Include="16428_A나누기B-3.py">
+      <Filter>소스 파일\기본</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
