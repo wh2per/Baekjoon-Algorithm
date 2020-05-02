@@ -1707,6 +1707,9 @@
     <ClCompile Include="9085_더하기.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="16673_고려대학교에는공식와인이있다.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
