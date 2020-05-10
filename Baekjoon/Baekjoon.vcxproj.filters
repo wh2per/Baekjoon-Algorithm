@@ -1722,6 +1722,9 @@
     <ClCompile Include="7785_회사에있는사람.cpp">
       <Filter>소스 파일\자료구조\셋</Filter>
     </ClCompile>
+    <ClCompile Include="1620_나는야포켓몬마스터이다솜.cpp">
+      <Filter>소스 파일\자료구조\맵</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
