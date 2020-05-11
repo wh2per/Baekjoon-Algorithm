@@ -1725,6 +1725,9 @@
     <ClCompile Include="1620_나는야포켓몬마스터이다솜.cpp">
       <Filter>소스 파일\자료구조\맵</Filter>
     </ClCompile>
+    <ClCompile Include="10815_숫자카드.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
