@@ -1728,6 +1728,9 @@
     <ClCompile Include="10815_숫자카드.cpp">
       <Filter>소스 파일\이분탐색</Filter>
     </ClCompile>
+    <ClCompile Include="18258_큐2.cpp">
+      <Filter>소스 파일\자료구조\큐</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
