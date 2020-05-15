@@ -1740,6 +1740,9 @@
     <ClCompile Include="1764_듣보잡.cpp">
       <Filter>소스 파일\자료구조\맵</Filter>
     </ClCompile>
+    <ClCompile Include="18870_좌표압축.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
