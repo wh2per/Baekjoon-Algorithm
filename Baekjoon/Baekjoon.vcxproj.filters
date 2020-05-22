@@ -100,9 +100,6 @@
     <Filter Include="소스 파일\BFS">
       <UniqueIdentifier>{f43bc971-2004-4262-9671-c0cedccef3b1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\DFS">
-      <UniqueIdentifier>{f2728ed0-6ade-4b7c-91f5-b9d27daa987c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\그래프\그래프이론">
       <UniqueIdentifier>{25e64372-d0f6-4489-b29d-15b17990f858}</UniqueIdentifier>
     </Filter>
@@ -150,6 +147,9 @@
     </Filter>
     <Filter Include="소스 파일\그래프\최단경로\플로이드워셜">
       <UniqueIdentifier>{2dac973a-0489-44ae-a735-90f582a2b2bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DFS">
+      <UniqueIdentifier>{f2728ed0-6ade-4b7c-91f5-b9d27daa987c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1680,9 +1680,6 @@
     <ClCompile Include="18870_좌표압축.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
-    <ClCompile Include="1012_유기농배추.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="7576_토마토.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
@@ -1766,6 +1763,12 @@
     </ClCompile>
     <ClCompile Include="10026_적록색약.cpp">
       <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012_유기농배추.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="11403_경로찾기.cpp">
+      <Filter>소스 파일\DFS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
