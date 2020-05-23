@@ -1770,6 +1770,9 @@
     <ClCompile Include="11403_경로찾기.cpp">
       <Filter>소스 파일\DFS</Filter>
     </ClCompile>
+    <ClCompile Include="9205_맥주마시면서걸어가기.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
