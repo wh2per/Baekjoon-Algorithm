@@ -1779,6 +1779,9 @@
     <ClCompile Include="2178_미로탐색.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="1389_케빈베이컨의6단계법칙.cpp">
+      <Filter>소스 파일\그래프\최단경로\플로이드워셜</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
