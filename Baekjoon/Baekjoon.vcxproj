@@ -1746,6 +1746,7 @@
     <None Include="1182_부분집합의합.java">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </None>
+    <None Include="1247_부호.java" />
     <None Include="1248_맞춰봐.java">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </None>
