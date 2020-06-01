@@ -1809,6 +1809,9 @@
     <ClCompile Include="1865_후위표기식.cpp">
       <Filter>소스 파일\자료구조\스택</Filter>
     </ClCompile>
+    <ClCompile Include="1167_트리의지름.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
