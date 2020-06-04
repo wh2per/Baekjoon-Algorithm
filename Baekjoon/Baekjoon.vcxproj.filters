@@ -918,9 +918,6 @@
     <ClCompile Include="10423_전기가부족해.cpp">
       <Filter>소스 파일\그래프\MST</Filter>
     </ClCompile>
-    <ClCompile Include="17487_타자연습.cpp">
-      <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
     <ClCompile Include="6497_전력난.cpp">
       <Filter>소스 파일\그래프\MST</Filter>
     </ClCompile>
@@ -1817,6 +1814,12 @@
     </ClCompile>
     <ClCompile Include="1075_나누기.cpp">
       <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="16120_PPAP.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="17487_타자연습.cpp">
+      <Filter>소스 파일\분할정복</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
