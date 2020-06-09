@@ -1593,9 +1593,6 @@
     <ClCompile Include="13335_트럭.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="13549_숨바꼭질3.cpp">
-      <Filter>소스 파일\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="13913_숨바꼭질4.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
@@ -1823,6 +1820,12 @@
     </ClCompile>
     <ClCompile Include="1789_수들의합.cpp">
       <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M(9).cpp">
+      <Filter>소스 파일\DFS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
