@@ -1836,6 +1836,9 @@
     <ClCompile Include="15657_N과M(8).cpp">
       <Filter>소스 파일\수학\순열</Filter>
     </ClCompile>
+    <ClCompile Include="1284_집주소.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
