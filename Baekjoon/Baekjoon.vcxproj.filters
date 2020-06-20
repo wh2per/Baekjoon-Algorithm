@@ -70,9 +70,6 @@
     <Filter Include="소스 파일\그래프\단절점-단절선">
       <UniqueIdentifier>{66b81cbe-dc2d-4f18-973a-be22a0fa29e2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\재귀호출">
-      <UniqueIdentifier>{9a05e295-0505-4bd0-839f-a10ee66969e0}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\수학\소수">
       <UniqueIdentifier>{7572abb7-7773-4890-9f4a-015b1cef8d4d}</UniqueIdentifier>
     </Filter>
@@ -150,6 +147,9 @@
     </Filter>
     <Filter Include="소스 파일\DFS">
       <UniqueIdentifier>{f2728ed0-6ade-4b7c-91f5-b9d27daa987c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\시뮬레이션\재귀호출">
+      <UniqueIdentifier>{9a05e295-0505-4bd0-839f-a10ee66969e0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -424,7 +424,7 @@
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="1914_하노이탑.cpp">
-      <Filter>소스 파일\재귀호출</Filter>
+      <Filter>소스 파일\시뮬레이션\재귀호출</Filter>
     </ClCompile>
     <ClCompile Include="1920_수찾기.cpp">
       <Filter>소스 파일\이분탐색</Filter>
@@ -748,10 +748,10 @@
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="10870_피보나치수5.cpp">
-      <Filter>소스 파일\재귀호출</Filter>
+      <Filter>소스 파일\시뮬레이션\재귀호출</Filter>
     </ClCompile>
     <ClCompile Include="10826_피보나치수4.cpp">
-      <Filter>소스 파일\재귀호출</Filter>
+      <Filter>소스 파일\시뮬레이션\재귀호출</Filter>
     </ClCompile>
     <ClCompile Include="10871_X보다작은수.cpp">
       <Filter>소스 파일\자료구조\큐</Filter>
@@ -1847,6 +1847,9 @@
     </ClCompile>
     <ClCompile Include="18352_특정거리의도시찾기.cpp">
       <Filter>소스 파일\그래프\최단경로\다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="17070_파이프옮기기1.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
