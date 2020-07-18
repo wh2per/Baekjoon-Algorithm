@@ -1869,6 +1869,9 @@
     <ClCompile Include="9517_아이러브크로아티아.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="3049_다각형의대각선.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
