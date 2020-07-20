@@ -1414,6 +1414,7 @@
     <ClCompile Include="2985_세수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="2997_네번째수.cpp" />
     <ClCompile Include="3003_킹,퀸,룩,비숍,나이트,폰.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
