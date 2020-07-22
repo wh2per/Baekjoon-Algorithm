@@ -1881,11 +1881,11 @@
     <ClCompile Include="10474_분수좋아해.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="stack_prac1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="5523_경기결과.cpp">
       <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="14489_치킨두마리.cpp">
+      <Filter>소스 파일\기본</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
