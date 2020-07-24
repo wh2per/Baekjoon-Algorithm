@@ -1890,6 +1890,9 @@
     <ClCompile Include="4880_다음수.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="5073_삼각형과세변.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
