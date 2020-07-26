@@ -1893,6 +1893,9 @@
     <ClCompile Include="5073_삼각형과세변.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="15667_2018연세대학교프로그래밍경진대회.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
