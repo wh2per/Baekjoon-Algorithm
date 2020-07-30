@@ -1908,6 +1908,9 @@
     <ClCompile Include="4766_일반화학실험.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
+    <ClCompile Include="1598_꼬리를무는숫자나열.cpp">
+      <Filter>소스 파일\기본</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
