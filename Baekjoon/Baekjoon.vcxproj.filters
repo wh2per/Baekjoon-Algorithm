@@ -1911,9 +1911,6 @@
     <ClCompile Include="1598_꼬리를무는숫자나열.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="toss1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="10953_A+B-6.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -1934,6 +1931,9 @@
     </ClCompile>
     <ClCompile Include="2822_점수계산.cpp">
       <Filter>소스 파일\기본</Filter>
+    </ClCompile>
+    <ClCompile Include="11728_배열합치기.cpp">
+      <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
