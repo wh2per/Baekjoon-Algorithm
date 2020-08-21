@@ -1953,6 +1953,9 @@
     <ClCompile Include="10996_별찍기-21.cpp">
       <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
+    <ClCompile Include="2580_스도쿠.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
