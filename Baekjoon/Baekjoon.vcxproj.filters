@@ -1965,6 +1965,9 @@
     <ClCompile Include="12015_가장긴증가하는부분수열2.cpp">
       <Filter>소스 파일\이분탐색</Filter>
     </ClCompile>
+    <ClCompile Include="9655_돌게임.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
