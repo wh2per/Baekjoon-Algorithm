@@ -11,7 +11,7 @@ int split_sum(int num) {
 	return ans;
 }
 
-int bj_2231() {
+int main() {
 	int num;
 	cin >> num;
 	int temp = num;
@@ -20,9 +20,10 @@ int bj_2231() {
 		temp /= 10;
 		++count;
 	}
-	if (count > 0)
-		--count;
-	int start = num - (9 * count);
+
+	int start = 1;
+	if (count != 1)
+		start = num - (9 * count);
 	
 	int i = start;
 	for (i = start; i <= num; ++i) {
