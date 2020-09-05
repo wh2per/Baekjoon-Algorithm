@@ -1465,6 +1465,7 @@
     <ClCompile Include="2941_크로아티아알파벳.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="2947_나무조각.cpp" />
     <ClCompile Include="2953_나는요리사다.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
