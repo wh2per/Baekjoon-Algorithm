@@ -1989,6 +1989,9 @@
     <ClCompile Include="4796_캠핑.cpp">
       <Filter>소스 파일\그리디</Filter>
     </ClCompile>
+    <ClCompile Include="9252_LCS2.cpp">
+      <Filter>소스 파일\DP\LCS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
