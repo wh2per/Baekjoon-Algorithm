@@ -1992,6 +1992,9 @@
     <ClCompile Include="9252_LCS2.cpp">
       <Filter>소스 파일\DP\LCS</Filter>
     </ClCompile>
+    <ClCompile Include="2011_암호코드.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
