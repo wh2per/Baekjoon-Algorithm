@@ -8,7 +8,7 @@
 using namespace std;
 
 int arr[1001];
-int dp[3][1001][31];
+int dp[3][1001][32];
 
 int main() {
 	ios_base::sync_with_stdio(false);
