@@ -2,27 +2,17 @@
 using namespace std;
 
 int bj_1193() {
-	int n;
-	int count = 1;
+	int x;
+	cin >> x;
 
-	cin >> n;
-	int temp = 1;
-	while (temp < n) {
-		temp = count*(count+1)/2;
-		++count;
-	}
-	count -= 2;
-	temp = count * (count + 1) / 2;
-	
-	if (temp != n)
-		++count;
+	int i;
+	for (i = 1; x > 0; i++)
+		x = x - i;
 
-	if (count % 2 == 0) {
-		cout << n-temp << "/" << count - n + temp + 1;
-	}
-	else {
-		cout << count - n + temp +1 << "/" << n - temp;
-	}
-	
+	if (i % 2 == 1)
+		cout << i + x - 1 << "/" << 1 - x << endl;
+	else
+		cout << 1 - x << "/" << i + x - 1 << endl;
+
 	return 0;
 }
