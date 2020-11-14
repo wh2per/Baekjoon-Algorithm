@@ -36,10 +36,10 @@ int main() {
 		int f;
 		cin >> f;
 
-		v.assign(100001, 0);
-		number.assign(100001, 0);
+		v.assign(200001, 0);
+		number.assign(200001, 0);
 		map<string, int> info;
-		for (int i = 1; i <= 100000; ++i) {
+		for (int i = 1; i <= 200000; ++i) {
 			v[i] = i;
 			number[i] = 1;
 		}
