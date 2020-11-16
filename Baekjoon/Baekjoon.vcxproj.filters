@@ -2034,6 +2034,9 @@
     <ClCompile Include="1713_후보추천하기.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
     </ClCompile>
+    <ClCompile Include="1725_히스토그램.cpp">
+      <Filter>소스 파일\자료구조\스택</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
