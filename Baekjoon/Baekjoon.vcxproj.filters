@@ -151,6 +151,9 @@
     <Filter Include="소스 파일\시뮬레이션\재귀호출">
       <UniqueIdentifier>{9a05e295-0505-4bd0-839f-a10ee66969e0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\세그먼트트리">
+      <UniqueIdentifier>{4f3ac0f4-c00c-458e-8b72-59cf05e49519}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -2036,6 +2039,9 @@
     </ClCompile>
     <ClCompile Include="1725_히스토그램.cpp">
       <Filter>소스 파일\자료구조\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="10999_구간합구하기2.cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -9,13 +9,13 @@ int getIndex(int n) {			// 배열크기 정하기
 	return temp * 2;
 }
 
-int bj_2042() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n, m,k;
-	cin >> n >> m>>k;
+	int n, m, k;
+	cin >> n >> m >> k;
 
 	int size = getIndex(n);
 	int start = size - n - 1;
@@ -29,45 +29,28 @@ int bj_2042() {
 		v[i] = v[i * 2] + v[i * 2 + 1];
 
 
-	for (int w = 0; w < m+k; ++w) {
+	for (int w = 0; w < m + k; ++w) {
 		int a, x, y;
 		cin >> a >> x >> y;
 
-		if (a==2) {		// 합구하기
+		if (a == 2) {		// 합구하기
 			int L = x + start;
 			int R = y + start;
 			long long S = 0;
 
 			while (L <= R) {
-				if (L % 2 == 1) {		// 왼쪽 끝이 오른쪽 자식일때
-					S += v[L];			// 현재 값만 저장하고
-					++L;				// 인덱스 증가
-					if (L == R) {		// 끝까지 왔다면
-						S += v[L];
-						break;			// 종료
-					}
-					else				// 왼쪽 자식이 되었으니까
-						L /= 2;			// 부모로 가기
-				}
-				else 					// 왼쪽 끝이 왼쪽 자식일때
-					L /= 2;				// 부모로 가기
-
-				if (R % 2 == 1) 		// 오른쪽 끝이 오른쪽 자식일때
-					R /= 2;				// 부모로 가기
-				else { 					// 오른쪽 끝이 왼쪽 자식일때
-					S += v[R];			// 현재값만 저장
-					--R;				// 인덱스 왼쪽으로
-					R /= 2;				// 오른쪽 자식이니까 부모로 가기
-				}
+				if (L % 2 == 1)
+					S += v[L];
+				if (R % 2 == 0)
+					S += v[R];
+				L = (L + 1) / 2;
+				R = (R - 1) / 2;
 			}
 			cout << S << "\n";
 		}
 		else {			// 변경
-			int target = x + start;
-			int pos = target;
-			long long gap = y - v[target];
-			v[target] = y;
-			pos >>= 1;			// 부모로 이동
+			int pos = x + start;
+			long long gap = y - v[x + start];
 			while (pos > 0) {	// 루트가 아니라면 계속 진행
 				v[pos] += gap;
 				pos >>= 1;
