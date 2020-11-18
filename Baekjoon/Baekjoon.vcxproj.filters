@@ -2052,6 +2052,9 @@
     <ClCompile Include="10868_최솟값(세그먼트트리).cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
+    <ClCompile Include="11505_구간곱구하기.cpp">
+      <Filter>소스 파일\인덱스트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
