@@ -2079,6 +2079,9 @@
     <ClCompile Include="2268_수들의합.cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
+    <ClCompile Include="1275_커피숍2.cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
