@@ -5,6 +5,8 @@
 #include <climits>
 #include <queue>
 #include <string>
+#include <cmath>
+#include <string.h>
 using namespace std;
 
 int main() {

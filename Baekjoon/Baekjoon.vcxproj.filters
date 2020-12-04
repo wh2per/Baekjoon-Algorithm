@@ -2073,6 +2073,9 @@
     <ClCompile Include="12849_본대산책.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="1806_부분합.cpp">
+      <Filter>소스 파일\투포인터</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
