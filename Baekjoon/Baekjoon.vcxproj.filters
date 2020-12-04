@@ -2076,6 +2076,9 @@
     <ClCompile Include="1806_부분합.cpp">
       <Filter>소스 파일\투포인터</Filter>
     </ClCompile>
+    <ClCompile Include="2268_수들의합.cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
