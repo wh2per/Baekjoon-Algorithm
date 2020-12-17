@@ -2100,6 +2100,9 @@
     <ClCompile Include="1024_수열의합.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
+    <ClCompile Include="5014_스타트링크.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
