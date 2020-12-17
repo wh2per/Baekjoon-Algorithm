@@ -2097,6 +2097,9 @@
     <ClCompile Include="11659_구간합구하기4.cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
+    <ClCompile Include="1024_수열의합.cpp">
+      <Filter>소스 파일\수학\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
@@ -2186,9 +2189,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
-      <Filter>소스 파일</Filter>
-    </Text>
-    <Text Include="input2.txt">
       <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>
