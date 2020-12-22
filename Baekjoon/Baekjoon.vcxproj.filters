@@ -154,6 +154,9 @@
     <Filter Include="소스 파일\세그먼트트리">
       <UniqueIdentifier>{4f3ac0f4-c00c-458e-8b72-59cf05e49519}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Mo%27s">
+      <UniqueIdentifier>{512d18a4-0f47-4a21-a3eb-a7909941881b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -2102,6 +2105,9 @@
     </ClCompile>
     <ClCompile Include="5014_스타트링크.cpp">
       <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13547_수열과쿼리5.cpp">
+      <Filter>소스 파일\Mo%27s</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
