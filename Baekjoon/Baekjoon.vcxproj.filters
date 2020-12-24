@@ -2124,6 +2124,9 @@
     <ClCompile Include="1517_버블소트.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
+    <ClCompile Include="11505_구간곱구하기(세그먼트트리).cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
@@ -2213,7 +2216,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\투포인터</Filter>
     </Text>
   </ItemGroup>
 </Project>
