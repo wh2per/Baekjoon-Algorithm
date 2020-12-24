@@ -2118,6 +2118,9 @@
     <ClCompile Include="13548_수열과쿼리6.cpp">
       <Filter>소스 파일\Mo%27s</Filter>
     </ClCompile>
+    <ClCompile Include="14438_수열과쿼리17.cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
