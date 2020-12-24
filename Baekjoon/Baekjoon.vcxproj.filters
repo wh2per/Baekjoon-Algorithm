@@ -2115,6 +2115,9 @@
     <ClCompile Include="14897_서로다른수와쿼리1.cpp">
       <Filter>소스 파일\Mo%27s</Filter>
     </ClCompile>
+    <ClCompile Include="13548_수열과쿼리6.cpp">
+      <Filter>소스 파일\Mo%27s</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
