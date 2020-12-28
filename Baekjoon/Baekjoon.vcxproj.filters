@@ -2136,6 +2136,9 @@
     <ClCompile Include="14428_수열과쿼리16.cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
+    <ClCompile Include="18436_수열과쿼리37.cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
