@@ -154,7 +154,10 @@
     <Filter Include="소스 파일\세그먼트트리">
       <UniqueIdentifier>{4f3ac0f4-c00c-458e-8b72-59cf05e49519}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Mo%27s">
+    <Filter Include="소스 파일\오프라인쿼리">
+      <UniqueIdentifier>{58eac1ae-de5c-41c4-85f4-8bc610978c89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\오프라인쿼리\Mo%27s">
       <UniqueIdentifier>{512d18a4-0f47-4a21-a3eb-a7909941881b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -2104,16 +2107,16 @@
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="13547_수열과쿼리5.cpp">
-      <Filter>소스 파일\Mo%27s</Filter>
+      <Filter>소스 파일\오프라인쿼리\Mo%27s</Filter>
     </ClCompile>
     <ClCompile Include="13544_수열과쿼리3.cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
     <ClCompile Include="14897_서로다른수와쿼리1.cpp">
-      <Filter>소스 파일\Mo%27s</Filter>
+      <Filter>소스 파일\오프라인쿼리\Mo%27s</Filter>
     </ClCompile>
     <ClCompile Include="13548_수열과쿼리6.cpp">
-      <Filter>소스 파일\Mo%27s</Filter>
+      <Filter>소스 파일\오프라인쿼리\Mo%27s</Filter>
     </ClCompile>
     <ClCompile Include="14438_수열과쿼리17.cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
@@ -2149,6 +2152,9 @@
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
     <ClCompile Include="2357_최솟값과최댓값(세그먼트트리).cpp">
+      <Filter>소스 파일\세그먼트트리</Filter>
+    </ClCompile>
+    <ClCompile Include="2243_사탕상자.cpp">
       <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
   </ItemGroup>
