@@ -79,9 +79,6 @@
     <Filter Include="소스 파일\수학\GCD-LCM">
       <UniqueIdentifier>{758e994c-132f-4c1e-bbdf-aa593ce8e4d7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\인덱스트리">
-      <UniqueIdentifier>{e57dd704-4bcc-4e79-85e6-fc6e69797f12}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\그리디">
       <UniqueIdentifier>{347e9a9d-eab9-4b1b-bf70-1645210b402d}</UniqueIdentifier>
     </Filter>
@@ -151,14 +148,23 @@
     <Filter Include="소스 파일\시뮬레이션\재귀호출">
       <UniqueIdentifier>{9a05e295-0505-4bd0-839f-a10ee66969e0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\세그먼트트리">
+    <Filter Include="소스 파일\트리">
       <UniqueIdentifier>{4f3ac0f4-c00c-458e-8b72-59cf05e49519}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\오프라인쿼리">
+    <Filter Include="소스 파일\트리\인덱스트리">
+      <UniqueIdentifier>{e57dd704-4bcc-4e79-85e6-fc6e69797f12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리\오프라인쿼리">
       <UniqueIdentifier>{58eac1ae-de5c-41c4-85f4-8bc610978c89}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\오프라인쿼리\Mo%27s">
+    <Filter Include="소스 파일\트리\오프라인쿼리\Mo%27s">
       <UniqueIdentifier>{512d18a4-0f47-4a21-a3eb-a7909941881b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리\세그먼트 트리">
+      <UniqueIdentifier>{f3d12398-8268-4eae-8557-80a135565b39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리\세그먼트 트리\Lazy Propagation">
+      <UniqueIdentifier>{6553a18e-0cf5-4d6b-a7b3-2a4684fddc4f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -499,7 +505,7 @@
       <Filter>소스 파일\수학\GCD-LCM</Filter>
     </ClCompile>
     <ClCompile Include="2042_구간합구하기.cpp">
-      <Filter>소스 파일\인덱스트리</Filter>
+      <Filter>소스 파일\트리\인덱스트리</Filter>
     </ClCompile>
     <ClCompile Include="2075_N번째큰수.cpp">
       <Filter>소스 파일\수학\구현</Filter>
@@ -535,7 +541,7 @@
       <Filter>소스 파일\수학\소수</Filter>
     </ClCompile>
     <ClCompile Include="2357_최솟값과최댓값.cpp">
-      <Filter>소스 파일\인덱스트리</Filter>
+      <Filter>소스 파일\트리\인덱스트리</Filter>
     </ClCompile>
     <ClCompile Include="2455_지능형기차.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
@@ -2046,20 +2052,11 @@
     <ClCompile Include="1725_히스토그램.cpp">
       <Filter>소스 파일\자료구조\스택</Filter>
     </ClCompile>
-    <ClCompile Include="10999_구간합구하기2.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="2042_구간합구하기(세그먼트트리).cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
     <ClCompile Include="10868_최솟값.cpp">
-      <Filter>소스 파일\인덱스트리</Filter>
-    </ClCompile>
-    <ClCompile Include="10868_최솟값(세그먼트트리).cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
+      <Filter>소스 파일\트리\인덱스트리</Filter>
     </ClCompile>
     <ClCompile Include="11505_구간곱구하기.cpp">
-      <Filter>소스 파일\인덱스트리</Filter>
+      <Filter>소스 파일\트리\인덱스트리</Filter>
     </ClCompile>
     <ClCompile Include="1783_병든나이트.cpp">
       <Filter>소스 파일\그리디</Filter>
@@ -2073,32 +2070,17 @@
     <ClCompile Include="11931_수정렬하기4.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
-    <ClCompile Include="7469_K번째수.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
     <ClCompile Include="12849_본대산책.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="1806_부분합.cpp">
       <Filter>소스 파일\투포인터</Filter>
     </ClCompile>
-    <ClCompile Include="2268_수들의합.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="1275_커피숍2.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="13537_수열과쿼리1.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
     <ClCompile Include="1219_오민식의고민.cpp">
       <Filter>소스 파일\그래프\최단경로\벨만-포드</Filter>
     </ClCompile>
     <ClCompile Include="7579_앱.cpp">
       <Filter>소스 파일\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11659_구간합구하기4.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
     <ClCompile Include="1024_수열의합.cpp">
       <Filter>소스 파일\수학\구현</Filter>
@@ -2107,40 +2089,16 @@
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="13547_수열과쿼리5.cpp">
-      <Filter>소스 파일\오프라인쿼리\Mo%27s</Filter>
-    </ClCompile>
-    <ClCompile Include="13544_수열과쿼리3.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
+      <Filter>소스 파일\트리\오프라인쿼리\Mo%27s</Filter>
     </ClCompile>
     <ClCompile Include="14897_서로다른수와쿼리1.cpp">
-      <Filter>소스 파일\오프라인쿼리\Mo%27s</Filter>
+      <Filter>소스 파일\트리\오프라인쿼리\Mo%27s</Filter>
     </ClCompile>
     <ClCompile Include="13548_수열과쿼리6.cpp">
-      <Filter>소스 파일\오프라인쿼리\Mo%27s</Filter>
-    </ClCompile>
-    <ClCompile Include="14438_수열과쿼리17.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="5676_음주코딩.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
+      <Filter>소스 파일\트리\오프라인쿼리\Mo%27s</Filter>
     </ClCompile>
     <ClCompile Include="1517_버블소트.cpp">
       <Filter>소스 파일\정렬</Filter>
-    </ClCompile>
-    <ClCompile Include="11505_구간곱구하기(세그먼트트리).cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="12837_가계부(Hard).cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="14427_수열과쿼리15.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="14428_수열과쿼리16.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
-    </ClCompile>
-    <ClCompile Include="18436_수열과쿼리37.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
     </ClCompile>
     <ClCompile Include="10158_개미.cpp">
       <Filter>소스 파일\수학\구현</Filter>
@@ -2151,11 +2109,62 @@
     <ClCompile Include="1969_DNA.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
-    <ClCompile Include="2357_최솟값과최댓값(세그먼트트리).cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
+    <ClCompile Include="10999_구간합구하기2.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리\Lazy Propagation</Filter>
+    </ClCompile>
+    <ClCompile Include="1275_커피숍2.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="2042_구간합구하기(세그먼트트리).cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
     </ClCompile>
     <ClCompile Include="2243_사탕상자.cpp">
-      <Filter>소스 파일\세그먼트트리</Filter>
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="2268_수들의합.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="2357_최솟값과최댓값(세그먼트트리).cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="5676_음주코딩.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="7469_K번째수.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="10868_최솟값(세그먼트트리).cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="11505_구간곱구하기(세그먼트트리).cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="11659_구간합구하기4.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="12837_가계부(Hard).cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="13537_수열과쿼리1.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="13544_수열과쿼리3.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="14427_수열과쿼리15.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="14428_수열과쿼리16.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="14438_수열과쿼리17.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="18436_수열과쿼리37.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="9426_중앙값측정.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -2246,7 +2255,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
-      <Filter>소스 파일\투포인터</Filter>
+      <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>
 </Project>
