@@ -1,7 +1,7 @@
-#include<iostream>
-#include<algorithm>
-#include<vector>
-#include<cmath>
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <cmath>
 using namespace std;
 
 typedef long long ll;
@@ -9,7 +9,7 @@ ll arr[1000001];
 ll tree[1<<21];
 ll lazy[1<<21];
 
-void update_lazy(int start, int end, int node)
+void update_lazy(int node, int start, int end)
 {
 	// lazy가 0이면 return;
 	if (lazy[node] == 0)
@@ -29,10 +29,9 @@ void update_lazy(int start, int end, int node)
 
 	// 물려준 후 lazy는 초기화
 	lazy[node] = 0;
-
 }
 
-void update_range(int start, int end, int node, int left, int right, ll val)
+void update_range(int node, int start, int end, int left, int right, ll val)
 {
 	/*
 		순서 ::
@@ -41,7 +40,7 @@ void update_range(int start, int end, int node, int left, int right, ll val)
 		2에서 자식 수만큼 더해주는 이유는 자식들은 아직 lazy가 업데이트 되지 않았기 때문
 	*/
 	// 현재 노드에 lazy가 있는지 확인 후, lazy가 있다면 node를 업데이트 해준다.
-	update_lazy(start, end, node);
+	update_lazy(node, start, end);
 
 	// 하나도 속하지 않는다면 return;
 	if (left > end || right < start)
@@ -63,28 +62,28 @@ void update_range(int start, int end, int node, int left, int right, ll val)
 	}
 
 	int mid = (start + end) / 2;
-	update_range(start, mid, node * 2, left, right, val);
-	update_range(mid + 1, end, node * 2 + 1, left, right, val);
+	update_range(node * 2, start, mid, left, right, val);
+	update_range(node * 2 + 1, mid + 1,end, left, right, val);
 
 	// 구간이 걸쳐서 속해 있다면 자식 노드를 이용하여 부모 노드를 업데이트 한다.
 	tree[node] = tree[node * 2] + tree[node * 2 + 1];
 }
 
-ll init(int start, int end, int node)
+ll init(int node, int start, int end)
 { // 세그먼트 트리 생성
 	if (start == end)
 		return tree[node] = arr[start]; // 리프 노드에 도달한 경우
 
 	int mid = (start + end) / 2;
 	// 재귀적으로 두 부분을 나누어 그 합을 자기 자신으로 한다.
-	return tree[node] = init(start, mid, node * 2) + init(mid + 1, end, node * 2 + 1);
+	return tree[node] = init(node * 2,start, mid) + init(node * 2 + 1, mid + 1, end);
 }
 
 // left ~ right 까지의 구간합을 구함, start, end : 시작, 끝 인덱스
-ll sum(int start, int end, int node, int left, int right)
+ll query(int node, int start, int end, int left, int right)
 {
 	// update이후 남은 lazy를 해당하는 구간을 sum 할 때 업데이트 해준다.
-	update_lazy(start, end, node);
+	update_lazy(node, start, end);
 
 	// 범위를 벗어난 경우
 	if (left > end || right < start)
@@ -95,7 +94,7 @@ ll sum(int start, int end, int node, int left, int right)
 		return tree[node];
 
 	int mid = (start + end) / 2;
-	return sum(start, mid, node * 2, left, right) + sum(mid + 1, end, node * 2 + 1, left, right);
+	return query(node * 2, start, mid, left, right) + query(node * 2 + 1, mid + 1, end, left, right);
 }
 
 
@@ -110,10 +109,10 @@ int main(void)
 	int n, m, k;
 	cin >> n >> m >> k;
 
-	for (int i = 0; i < n; i++)
+	for (int i = 1; i <= n; i++)
 		cin >> arr[i];
 
-	init(0, n - 1, 1); // 세그먼트 트리 생성
+	init(1,0, n); // 세그먼트 트리 생성
 
 	k += m; // m + k번 반복
 	while (k--)
@@ -125,11 +124,11 @@ int main(void)
 			ll t4;
 			cin >> t4;
 
-			update_range(0, n - 1, 1, t2 - 1, t3 - 1, t4);
+			update_range(1, 1, n, t2, t3, t4);
 		}
 		else if (t1 == 2)
 		{
-			cout << sum(0, n - 1, 1, t2 - 1, t3 - 1) << '\n';
+			cout << query(1, 1, n, t2, t3) << '\n';
 		}
 	}
 
