@@ -2178,6 +2178,9 @@
     <ClCompile Include="15560_구간합최대1.cpp">
       <Filter>소스 파일\트리\세그먼트 트리</Filter>
     </ClCompile>
+    <ClCompile Include="15561_구간합최대2.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
