@@ -2184,6 +2184,9 @@
     <ClCompile Include="12844_XOR.cpp">
       <Filter>소스 파일\트리\세그먼트 트리\Lazy Propagation</Filter>
     </ClCompile>
+    <ClCompile Include="1946_신입사원.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1002_터렛.java">
