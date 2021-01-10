@@ -16,18 +16,18 @@ max(A[i] + ... + A[j])가 최대가 되는 연속 구간 최대 합
 const int inf = 1e9;
 
 struct info {
-	int ls;		// 왼쪽 구간 최대합
-	int rs;		// 오른쪽 구간 최대합
-	int lrs;	// 좌우 최대합
-	int mxs;	// 위 2개중에 최대
-	info(int ls = -inf, int rs = -inf, int lrs = 0, int mxs = -inf) :ls(ls), rs(rs), lrs(lrs), mxs(mxs) {}
+	int lmax;		// 왼쪽 구간 최대합
+	int rmax;		// 오른쪽 구간 최대합
+	int sum;	// 좌우 최대합
+	int tmax;	// 위 2개중에 최대
+	info(int lmax = -inf, int rmax = -inf, int sum = 0, int tmax = -inf) :lmax(lmax), rmax(rmax), sum(sum), tmax(tmax) {}
 };
 
 int arr[100001];
 info tree[1 << 18];
 
 info merge(const info& a, const info& b) {
-	return { max(a.ls, a.lrs + b.ls), max(a.rs + b.lrs, b.rs), a.lrs + b.lrs, max({a.mxs,b.mxs,a.rs + b.ls}) };
+	return { max(a.lmax, a.sum + b.lmax), max(a.rmax + b.sum, b.rmax), a.sum + b.sum, max({a.tmax,b.tmax,a.rmax + b.lmax}) };
 }
 
 info query(int node, int start, int end, int left, int right) {
@@ -77,7 +77,7 @@ int main() {
 		cin >> c >> a >> b;
 
 		if (c == 0) {		// max(u * (arr[i]+...+arr[j]) + v*(j-i) )  query
-			cout << query(1, 1, n, a, b).mxs - v << "\n";
+			cout << query(1, 1, n, a, b).tmax - v << "\n";
 		}
 		else {		// arr[a]를 b로 update
 			arr[a] = b;

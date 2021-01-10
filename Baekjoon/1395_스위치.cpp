@@ -10,8 +10,7 @@ ll arr[100001];
 ll tree[1 << 18];
 ll lazy[1 << 18];
 
-void update_lazy(int node, int start, int end)
-{
+void update_lazy(int node, int start, int end){
 	if (lazy[node] == 0)
 		return;
 	tree[node] = (end - start + 1) - tree[node];
@@ -24,8 +23,7 @@ void update_lazy(int node, int start, int end)
 	lazy[node] = 0;
 }
 
-void update_range(int node, int start, int end, int left, int right)
-{
+void update_range(int node, int start, int end, int left, int right){
 	update_lazy(node, start, end);
 
 	if (left > end || right < start)
