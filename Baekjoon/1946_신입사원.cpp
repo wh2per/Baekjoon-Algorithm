@@ -16,7 +16,7 @@ int main() {
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	//freopen("input.txt", "r", stdin);
+	freopen("input.txt", "r", stdin);
 
 	int t, n;
 	cin >> t;

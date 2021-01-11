@@ -1,20 +1,34 @@
-﻿#include <iostream>
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
 #include <vector>
 #include <queue>
 #include <set>
 #include <climits>
+#include <string.h>
 using namespace std;
 
 const int dx[] = { 1,0,-1,0 };		// 오른쪽, 아래, 왼쪽, 위
 const int dy[] = { 0,1,0,-1 };
 
-vector<vector<int>> prison_bfs(vector<vector<char>>& map, int y, int x, int n, int m) {
-	vector<vector<int>> prison(n + 2, vector<int>(m + 2, 0));				// 각 위치마다 사용한 키의 갯수를 저장
-	vector<vector<bool>> check(n + 2, vector<bool>(m + 2, false));
+vector<pair<int, int>> ppos;
+char map[103][103];
+int n, m;
+
+int prisoner[3][103][103];		// 각 위치마다 사용한 키의 갯수를 저장
+bool check[103][103];
+
+void prison_bfs(int idx,int y, int x) {
+	for (int i = 0; i < n + 2; ++i) {		
+		for (int j = 0; j < m + 2; ++j) 				
+			prisoner[idx][i][j] = INT_MAX;
+	}
+	memset(check, false, sizeof(check));
 
 	deque<pair<int, int>> q;
 	q.push_front({y,x});
 	check[y][x] = true;
+	prisoner[idx][y][x] = 0;
+
 	while (!q.empty()) {
 		int y = q.front().first;
 		int x = q.front().second;
@@ -27,31 +41,36 @@ vector<vector<int>> prison_bfs(vector<vector<char>>& map, int y, int x, int n, i
 			if (ny < 0 || ny >= n + 2 || nx < 0 || nx >= m+2 || check[ny][nx] || map[ny][nx]=='*')
 				continue;
 
-			if (map[ny][nx] == '#') {		// 벽인 경우는 뒤로 추가
+			if (map[ny][nx] == '#') {		// 문인 경우는 뒤로 추가
 				check[ny][nx] = true;
-				prison[ny][nx] = prison[y][x] + 1;
+				prisoner[idx][ny][nx] = prisoner[idx][y][x] + 1;
 				q.push_back({ ny,nx });
 			}
 			else {				// 빈공간인 경우는 앞으로 추가
 				check[ny][nx] = true;
-				prison[ny][nx] = prison[y][x];
+				prisoner[idx][ny][nx] = prisoner[idx][y][x];
 				q.push_front({ ny,nx });
 			}
 		}
 	}
-	return prison;
 }
 
-int bj_9367() {
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+
+	freopen("input.txt", "r", stdin);
+
 	int t;
 	cin >> t;
 	for (int q = 0; q < t; ++q) {
-		vector<pair<int, int>> ppos;
-		int ans = INT_MAX;
-		int n, m;
 		cin >> n >> m;
+
+		ppos.clear();
 		ppos.push_back({0,0});			// 외부조력자 추가
-		vector<vector<char>> map(n+2, vector<char>(m+2,'.'));
+
+		memset(map,'.',sizeof(map));
 		for (int i = 1; i <= n; ++i) {
 			for (int j = 1; j <= m; ++j) {
 				cin >> map[i][j];
@@ -62,10 +81,10 @@ int bj_9367() {
 			}
 		}
 
-		vector<vector<vector<int>>> prisoner(3, vector<vector<int>>());		// 외부조력자, 죄수1, 죄수2
 		for (int i = 0; i < 3; ++i) 
-			prisoner[i] = prison_bfs(map, ppos[i].first, ppos[i].second, n, m);
+			prison_bfs(i,ppos[i].first, ppos[i].second);
 
+		int ans = INT_MAX;
 		for (int i = 0; i < n + 2; ++i) {
 			for (int j = 0; j < m + 2; ++j) {
 				if (map[i][j] == '*')
