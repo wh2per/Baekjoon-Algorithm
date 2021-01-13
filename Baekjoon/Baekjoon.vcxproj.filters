@@ -169,6 +169,9 @@
     <Filter Include="소스 파일\트리\인덱스 트리">
       <UniqueIdentifier>{e57dd704-4bcc-4e79-85e6-fc6e69797f12}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기하">
+      <UniqueIdentifier>{6ff8cc09-6d3b-41d0-bec3-c787b707d6dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1774_우주신과의교감.cpp">
@@ -483,9 +486,6 @@
     <ClCompile Include="1037_약수.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="1085_직사각형에서탈출.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
     <ClCompile Include="1094_막대기.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
@@ -639,9 +639,6 @@
     <ClCompile Include="2981_검문.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="3009_네번째점.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
     <ClCompile Include="3020_개똥벌레.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
@@ -654,17 +651,11 @@
     <ClCompile Include="3036_링.cpp">
       <Filter>소스 파일\수학\GCD-LCM</Filter>
     </ClCompile>
-    <ClCompile Include="3053_택시기하학.cpp">
-      <Filter>소스 파일\수학\기하</Filter>
-    </ClCompile>
     <ClCompile Include="3190_뱀.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
     </ClCompile>
     <ClCompile Include="3671_산업스파이.cpp">
       <Filter>소스 파일\수학\소수</Filter>
-    </ClCompile>
-    <ClCompile Include="4153_직각삼각형.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
     <ClCompile Include="5373_큐빙.cpp">
       <Filter>소스 파일\시뮬레이션</Filter>
@@ -1026,9 +1017,6 @@
     <ClCompile Include="2985_세수.cpp">
       <Filter>소스 파일\수학\조합</Filter>
     </ClCompile>
-    <ClCompile Include="16483_접시안의원.cpp">
-      <Filter>소스 파일\수학\조합</Filter>
-    </ClCompile>
     <ClCompile Include="3046_R2.cpp">
       <Filter>소스 파일\기본</Filter>
     </ClCompile>
@@ -1308,14 +1296,8 @@
     <ClCompile Include="14935_FA.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
-    <ClCompile Include="16486_운동장한바퀴.cpp">
-      <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
     <ClCompile Include="13136_DoNotTouchAnything.cpp">
       <Filter>소스 파일\수학\구현</Filter>
-    </ClCompile>
-    <ClCompile Include="14681_QuadrantSelection.cpp">
-      <Filter>소스 파일\기본\출력</Filter>
     </ClCompile>
     <ClCompile Include="17009_WinningScore.cpp">
       <Filter>소스 파일\기본</Filter>
@@ -2190,11 +2172,32 @@
     <ClCompile Include="1038_감소하는수.cpp">
       <Filter>소스 파일\브루트포스</Filter>
     </ClCompile>
+    <ClCompile Include="1085_직사각형에서탈출.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="3009_네번째점.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="3053_택시기하학.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="4153_직각삼각형.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="14681_QuadrantSelection.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="16483_접시안의원.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="16486_운동장한바퀴.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
+    <ClCompile Include="11758_CCW.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="1002_터렛.java">
-      <Filter>소스 파일\수학\기하</Filter>
-    </None>
     <None Include="1182_부분집합의합.java">
       <Filter>소스 파일\브루트포스</Filter>
     </None>
@@ -2275,6 +2278,9 @@
     </None>
     <None Include="1247_부호.java">
       <Filter>소스 파일\기본\출력</Filter>
+    </None>
+    <None Include="1002_터렛.java">
+      <Filter>소스 파일\기하</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
