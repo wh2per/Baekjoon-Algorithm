@@ -2196,6 +2196,9 @@
     <ClCompile Include="11758_CCW.cpp">
       <Filter>소스 파일\기하</Filter>
     </ClCompile>
+    <ClCompile Include="2166_다각형의면적.cpp">
+      <Filter>소스 파일\기하</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1182_부분집합의합.java">
