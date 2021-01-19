@@ -77,7 +77,7 @@ int main(void)
 	k += m; // m + k¹ø ¹Ýº¹
 	while (k--)
 	{
-		int t1, t2, t3;
+		long long t1, t2, t3;
 		cin >> t1 >> t2 >> t3;
 		if (t1 == 1)
 		{
