@@ -2214,6 +2214,9 @@
     <ClCompile Include="9659_돌게임5.cpp">
       <Filter>소스 파일\수학\구현</Filter>
     </ClCompile>
+    <ClCompile Include="12852_1로만들기2.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1182_부분집합의합.java">
