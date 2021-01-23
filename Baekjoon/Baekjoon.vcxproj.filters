@@ -2217,6 +2217,9 @@
     <ClCompile Include="12852_1로만들기2.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="2104_부분배열고르기.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1182_부분집합의합.java">
