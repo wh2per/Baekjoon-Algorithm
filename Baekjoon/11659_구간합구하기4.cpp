@@ -4,8 +4,8 @@
 #include <cmath>
 using namespace std;
 
-vector<long> arr;
-vector<long> tree;
+long long arr[100001];
+long long tree[1 << 18];
 
 long long init(int node, int start, int end) {
 	if (start == end)
@@ -33,12 +33,6 @@ int main() {
 
 	int n, m;
 	cin >> n >> m;
-
-	int height = (int)ceil(log2(n));
-	int size = 1 << (height + 1);
-
-	arr.assign(n + 1, 0);
-	tree.assign(size, 0);
 
 	for (int i = 1; i <= n; ++i)
 		cin >> arr[i];

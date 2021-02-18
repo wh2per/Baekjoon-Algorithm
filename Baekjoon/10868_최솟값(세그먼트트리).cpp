@@ -6,26 +6,21 @@
 using namespace std;
 
 typedef long long ll;
+ll arr[100001];
+ll tree[1<<18];
 
-int getIndex(int n) {			// 배열크기 정하기
-	int temp = 1;
-	while (temp < n)
-		temp = temp << 1;
-	return temp * 2;
-}
-
-ll init(vector<ll>& a, vector<ll>& tree, int start, int end, int node)
+ll init(int node, int start, int end)
 { // 세그먼트 트리 생성
 	if (start == end)
-		return tree[node] = a[start]; // 리프 노드에 도달한 경우
+		return tree[node] = arr[start]; // 리프 노드에 도달한 경우
 
 	int mid = (start + end) / 2;
 	// 재귀적으로 두 부분을 나누어 그 중 최소값을 자기 자신으로 한다.
-	return tree[node] = min(init(a, tree, start, mid, node * 2), init(a, tree, mid + 1, end, node * 2 + 1));
+	return tree[node] = min(init(node * 2, start, mid), init(node * 2 + 1, mid + 1, end));
 }
 
 // left ~ right 까지의 최소값을 구함, start, end : 시작, 끝 인덱스
-ll search_min(vector<ll>& tree, int start, int end, int node, int left, int right)
+ll search_min(int node, int start, int end, int left, int right)
 {
 	// 범위를 벗어난 경우
 	if (left > end || right < start)
@@ -36,34 +31,29 @@ ll search_min(vector<ll>& tree, int start, int end, int node, int left, int righ
 		return tree[node];
 
 	int mid = (start + end) / 2;
-	return min(search_min(tree, start, mid, node * 2, left, right), search_min(tree, mid + 1, end, node * 2 + 1, left, right));
+	return min(search_min(node * 2, start, mid, left, right), search_min(node * 2 + 1, mid + 1, end, left, right));
 }
 
 int main(void)
 {
 	ios_base::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(nullptr);
+	cin.tie(NULL);
+	cout.tie(NULL);
 
 	//freopen("./sample_input.txt", "r", stdin);
 
 	int n, m;
 	cin >> n >> m;
 
-	vector<ll> a(n);
-	int tree_size = getIndex(n); // 세그먼트 트리의 크기
-	vector<ll> tree(tree_size);
+	for (int i = 1; i <= n; i++)
+		cin >> arr[i];
 
-	for (int i = 0; i < n; i++)
-		cin >> a[i];
+	init(1,1,n); // 세그먼트 트리 생성
 
-	init(a, tree, 0, n - 1, 1); // 세그먼트 트리 생성
-
-	while (m--)
-	{
+	while (m--){
 		int t2, t3;
 		cin >> t2 >> t3;
-		cout << search_min(tree, 0, n - 1, 1, t2 - 1, t3 - 1) << '\n';
+		cout << search_min(1,1,n, t2, t3) << '\n';
 	}
 
 	return 0;

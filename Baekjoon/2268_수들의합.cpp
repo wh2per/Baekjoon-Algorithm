@@ -8,8 +8,8 @@
 #include <cmath>
 using namespace std;
 
-vector<long long> arr;
-vector<long long> tree;
+long long arr[1000001];
+long long tree[1<<21];
 
 long long init(int node, int start, int end) {
 	if (start == end)
@@ -47,16 +47,10 @@ int main() {
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	freopen("input.txt", "r", stdin);
+	//freopen("input.txt", "r", stdin);
 
 	int n, m;
 	cin >> n >> m;
-
-	int height = (int)ceil(log2(n));
-	int size = 1 << (height + 1);
-
-	arr.assign(n + 1, 0);
-	tree.assign(size, 0);
 
 	init(1, 1, n);
 
