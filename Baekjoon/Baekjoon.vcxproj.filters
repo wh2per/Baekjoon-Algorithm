@@ -2220,6 +2220,9 @@
     <ClCompile Include="2104_부분배열고르기.cpp">
       <Filter>소스 파일\분할정복</Filter>
     </ClCompile>
+    <ClCompile Include="14476_최대공약수하나빼기.cpp">
+      <Filter>소스 파일\트리\세그먼트 트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1182_부분집합의합.java">
