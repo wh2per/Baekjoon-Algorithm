@@ -15,7 +15,7 @@ int main() {
 	cout.tie(NULL);
 
 	//freopen("input.txt", "r", stdin);
-
+	
 
 	return 0;
 }
